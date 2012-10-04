@@ -16,7 +16,7 @@ toto = Toto::Server.new do
   #
   # Add your settings here
   # set [:setting], [value]
-  # 
+  # set :url,       "http://limitless-lake-2661.herokuapp.com/"
   # set :author,    ENV['USER']                               # blog author
   # set :title,     Dir.pwd.split('/').last                   # site title
   # set :root,      "index"                                   # page to load on /
