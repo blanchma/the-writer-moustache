@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:blanchma/toto-extended.git
+  remote: git://github.com/blanchma/toto-extended.git
   revision: 99a9b629203bdf807693b6e7fe564c3f26c2d376
   specs:
     toto (0.4.9)
