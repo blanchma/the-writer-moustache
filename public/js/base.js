@@ -29,7 +29,7 @@ var app = {
     } else {
 
       $(".header-mustache").last().show();
-      $(".header-mustache").first().css({display: 'inline'});
+      $(".header-mustache").first().css({display: 'inline', margin: '0'});
       $(".header-mustache").unbind('mouseover');
       //Rotate mustaches in header
       $(".header-mustache").mouseover(function(e) {
