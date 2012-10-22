@@ -149,4 +149,6 @@ body > footer {
 }
 .header-mustache {
   margin: 0 15px 0 15px;
+  text-align: center;
+  margin: 0 auto;
 }

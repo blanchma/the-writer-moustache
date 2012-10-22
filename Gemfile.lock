@@ -1,3 +1,12 @@
+GIT
+  remote: git@github.com:blanchma/toto-extended.git
+  revision: 99a9b629203bdf807693b6e7fe564c3f26c2d376
+  specs:
+    toto (0.4.9)
+      builder
+      rack
+      rdiscount
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -6,10 +15,6 @@ GEM
     rdiscount (1.6.8)
     shotgun (0.9)
       rack (>= 1.0)
-    toto (0.4.9)
-      builder
-      rack
-      rdiscount
 
 PLATFORMS
   ruby
@@ -18,4 +23,4 @@ DEPENDENCIES
   builder
   rdiscount
   shotgun
-  toto
+  toto!
