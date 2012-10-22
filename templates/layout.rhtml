@@ -4,12 +4,25 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <title><%= title %></title>
+    <meta name="description" content="<%= @context[:description] || 'Default description' %>" />
+    <link rel="shortcut icon" href="/mustache.ico" type="mage/vnd.microsoft.icon"/>
+    <title>
+    <% if @path == 'index' %>
+      Le Tute Blog
+    <% elsif @path.split('/').compact.length == 4 %>
+      <%= title %> - Le Tute Blog
+    <% else %>
+      <%= @path.capitalize.gsub(/[-]/, ' ') %> - Le Tute Blog
+    <% end %>
+  </title>
   </head>
   <body>
-    <section>
+    <div class="header"><h1> The Writer Moustache</h1></div>
+
+    <section id="main">
       <%= yield %>
     </section>
+
     <footer>
 
     </footer>

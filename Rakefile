@@ -9,7 +9,11 @@ task :new do
   title = ask('Title: ')
   slug = title.empty?? nil : title.strip.slugize
 
-  article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y")}.to_yaml
+  description = ask('Description: ')
+
+  article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y",
+    :description => description)}.to_yaml
+
   article << "\n"
   article << "Once upon a time...\n\n"
 
