@@ -11,7 +11,9 @@ task :new do
 
   description = ask('Description: ')
 
-  article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y",
+  category = ask('Category (lowercase): ')
+
+  article = {'title' => title, 'category' => category, date' => Time.now.strftime("%d/%m/%Y",
     :description => description)}.to_yaml
 
   article << "\n"
