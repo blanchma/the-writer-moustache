@@ -1,5 +1,6 @@
 require 'toto'
 
+Encoding.default_external = Encoding::UTF_8
 @config = Toto::Config::Defaults
 
 task :default => :new
@@ -13,8 +14,8 @@ task :new do
 
   category = ask('Category (lowercase): ')
 
-  article = {'title' => title, 'category' => category, date' => Time.now.strftime("%d/%m/%Y",
-    :description => description)}.to_yaml
+  article = {'title' => title, 'category' => category, 'date' => Time.now.strftime("%d/%m/%Y"),
+    'description' => description}.to_yaml
 
   article << "\n"
   article << "Once upon a time...\n\n"

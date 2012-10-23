@@ -1,16 +1,21 @@
 
-title: 'Iron Man 3: primer trailer'
+title: 'Iron Man 3'
 category: 'movies'
 date: 23/10/2012
 description: La tercer aparición de la saga ya tiene trailer
 summary: 131
 
-Iron Man 3 esta anunciada para Mayo 2013. En esta oportunidad el villano es el mandarin y la pelicula gira sobre el virus Extremis.
+Todo cómic, toda película, basada en superhéroes suele seguir un patrón, un camino. Se lo debemos al mitógrafo Joseph Campbell y su obra: "El héroe de las mil caras". Obra que influenció a personalidades como Steven Spielberg.
 
-En consideración de los no tan aficionados, no voy a comentar más que Extremis es una de las sagas más significativas de Iron Man.
+Describe un modelo que se repite en todos las religiones o mitos (la forma en que llamamos a la religión de los demás). Campbell lo resume en doce pasos pero con ayuda de un empobrecedor poder de síntesis podemos decir que el viaje inicia con un llamado a la aventura o desafío, luego una serie de pericias y derrotas que debe enfrentar antes de volver convertido en un auténtico héroe.
 
-El trailer promete mucho y hasta ahora Marvel Studios no decepcionó mi entusiasmo.
+Este modelo se puede ver en muchas películas como Iron Man 1 y 2. Tony casi muere en ambas, hasta que un mentor lo coloca en la senda correcta, vuelve más poderoso, con un nuevo sentido, derrota a su Nemesis y fin de la historia.
 
+En esta oportunidad, el Hombre de Hierro se enfrenta a un enemigo clásico de los cómics: el Mandarín. Un hombre con una visión muy particular en la saga Extremis en la que parece estar inspirada la película. Iron Man se enfrentara a sus peores demonios y tendrá que resucitar del infierno al que el Mandarín lo hundirá antes de resurgir más poderoso. Tony tendrá que aprender algunas lecciones sobre sí mismo para prevalecer.
+
+El trailer nos deja aventurar muchas cosas, algunas descartadas como la aparición de Iron Patriot. Es War Machine con una armadura muy similar a la del villano Norman Osborn durante su paso como jefe de H.A.M.M.E.R. Y un dato más impactante: Tony en una intervención médica, lo que nos permite afirmar que esta recibiendo una dosis del tecnovirus Extremis. Un giro trascendental en la serie gráfica de Invencible Iron Man.
+
+La película promete y hasta ahora Marvel Studios no decepcionó mi entusiasmo. En Argentina, Iron Man 3 va a desembarcar en Mayo 2013. La espero ansioso.
 <br/>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/_UMVJ3wRqDg?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
