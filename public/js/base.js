@@ -12,7 +12,6 @@ $(document).ready(function(){
 
 var app = {
   adaptToScreen: function () {
-   console.log($(document).width());
    if ($(document).width() < 1000) {
       $(".header-mustache").last().hide();
       $(".header-mustache").first().css({display: 'block', margin: '30px auto 20px auto'});
@@ -29,7 +28,7 @@ var app = {
     } else {
 
       $(".header-mustache").last().show();
-      $(".header-mustache").first().css({display: 'inline', margin: '0'});
+      $(".header-mustache").first().css({display: 'inline', margin: '0 25px 0 25px'});
       $(".header-mustache").unbind('mouseover');
       //Rotate mustaches in header
       $(".header-mustache").mouseover(function(e) {
