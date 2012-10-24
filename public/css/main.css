@@ -76,7 +76,10 @@ body > header > h1 {
 	margin-bottom: 0;
 }
 .post {
-	margin-bottom: 30px;
+	//margin-bottom: 30px;
+}
+.article-divider {
+  margin: 10px 0 20px 0;
 }
 .post:last-child {
   margin-bottom: 10px;
@@ -158,4 +161,8 @@ body > footer {
   margin: 0 25px 0 25px !important;
   text-align: center;
   margin: 0 auto;
+}
+
+.article-divider {
+  text-align: center;
 }
