@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"articl",
+				"article-divider"
+			],
+			[
 				"text",
 				"text-align"
 			],
@@ -55,62 +59,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/blanchma/play/le-blog/Rakefile",
-			"settings":
-			{
-				"buffer_size": 1022,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "2012-10-23-iron-man-3-primer-trailer.txt",
-			"settings":
-			{
-				"buffer_size": 745,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/blanchma/play/le-blog/config.ru",
-			"settings":
-			{
-				"buffer_size": 1294,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/blanchma/play/le-blog/public/css/main.css",
-			"settings":
-			{
-				"buffer_size": 2190,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/blanchma/play/le-blog/templates/index.builder",
-			"settings":
-			{
-				"buffer_size": 698,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/blanchma/play/le-blog/templates/pages/index.rhtml",
-			"settings":
-			{
-				"buffer_size": 572,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/blanchma/play/le-blog/Gemfile",
-			"settings":
-			{
-				"buffer_size": 127,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -188,6 +136,15 @@
 	},
 	"file_history":
 	[
+		"/Users/blanchma/play/le-blog/Gemfile",
+		"/Users/blanchma/play/le-blog/config.ru",
+		"/Users/blanchma/play/le-blog/Rakefile",
+		"/Users/blanchma/play/le-blog/public/css/main.css",
+		"/Users/blanchma/play/le-blog/articles/2012-10-23-iron-man-3.txt",
+		"/Users/blanchma/play/le-blog/templates/pages/index.rhtml",
+		"/Users/blanchma/play/le-blog/templates/index.builder",
+		"/Users/blanchma/play/le-blog/articles/2012-10-24-rubyconf-argentina-2012.txt",
+		"/Users/blanchma/play/le-blog/2012-10-23-iron-man-3-primer-trailer.txt",
 		"/Users/blanchma/play/le-blog/articles/2000-05-15-tute.txt",
 		"/Users/blanchma/play/le-blog/articles/2012-10-23.txt",
 		"/Users/blanchma/play/le-blog/public/images/mustache2.ico",
@@ -304,6 +261,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"adaptaci",
 			"just",
 			"just test",
 			"app",
@@ -375,203 +333,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/blanchma/play/le-blog/Rakefile",
-					"settings":
-					{
-						"buffer_size": 1022,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								401,
-								401
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "2012-10-23-iron-man-3-primer-trailer.txt",
-					"settings":
-					{
-						"buffer_size": 745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								148,
-								148
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"wrap_width": 80
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/blanchma/play/le-blog/config.ru",
-					"settings":
-					{
-						"buffer_size": 1294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1294,
-								1294
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/blanchma/play/le-blog/public/css/main.css",
-					"settings":
-					{
-						"buffer_size": 2190,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								512,
-								512
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/blanchma/play/le-blog/templates/index.builder",
-					"settings":
-					{
-						"buffer_size": 698,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								648,
-								648
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/blanchma/play/le-blog/templates/pages/index.rhtml",
-					"settings":
-					{
-						"buffer_size": 572,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								356,
-								356
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/blanchma/play/le-blog/Gemfile",
-					"settings":
-					{
-						"buffer_size": 127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								66,
-								66
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

@@ -3,11 +3,11 @@ category: code
 date: 24/10/2012
 description: Evento de rubyistas en Argentina
 
-El 19 y 20 de Octubre se realizó la RubyConf en Argentina. Un evento que reunió a 400 desarrolladores y 19 presentadores para escuchar y aprender sobre Ruby, Rails, startups y programming en general. Un evento muy esperado por la comunidad luego del éxito del año pasado.
+El 19 y 20 de Octubre se realizó la RubyConf en Argentina. Un evento que reunió a 400 desarrolladores y 19 presentadores para escuchar y aprender sobre Ruby, Rails, startups y programming en general.
 
 En esta oportunidad, la convocatoria fue en Paseo La Plaza en el microcentro de la Ciudad de Buenos Aires. Reunió a desarrolladores del exterior como Wynn Netherland, Andy Atkinson, Florian Gilcher y Steve Klabnik. De Latinoamérica a Santiago Pastorino, Ernesto Tagwerker y muchos otros.
 
-El balance de los dos días es positivo para mi. A diferencia del año pasado, se extrañaron más charlas técnicas. Hubo más charlas soft "Self-improvement for pros", "Ship it: Staying Lean at LivingSocial" y "The Lean Startup Hacker" y "Development and Philosophy". Fue un cambio interesante y para los organizadores es imposible satisfacer las expectativas de la audiencia que incluía desde newbies hasta rubyistas veteranos.
+El balance de los dos días es positivo para mi. A diferencia del año pasado, hubo menos charlas técnicas y más soft "Self-improvement for pros", "Ship it: Staying Lean at LivingSocial" y "The Lean Startup Hacker" y "Development and Philosophy". Fue un cambio interesante y para los organizadores es imposible satisfacer las expectativas de la audiencia que incluía desde newbies hasta rubyistas veteranos.
 
 Algunas charlas carecían de contenido para los treinta minutos estimados por charla, y quizás eran más interesantes para otro contexto como fue el caso de  "The Power of Small Tools" y "Rapid Prototyping with Sass, Compass and Nanoc". Otras lamentablemente, no me gustaron, y a pesar de la onda de sus presentadores, no aportaron mucho.
 
