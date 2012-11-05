@@ -15,7 +15,7 @@ body {
   font-size: 18px;
   line-height: 30px;
   padding: 15px;
-  background: #fbedbf;
+  background: #FDF6E3; //rgba(251, 237, 191, 0.41)
 
 }
 header, footer, section, article {
@@ -165,4 +165,8 @@ body > footer {
 
 .article-divider {
   text-align: center;
+}
+
+.hide {
+  display:none;
 }
