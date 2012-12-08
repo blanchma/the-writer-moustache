@@ -1,0 +1,8 @@
+---
+title: Sobre la productividad intangible
+category: programming
+date: 08/12/2012
+description: Sobre la productividad en el desarrollo de software
+
+Once upon a time...
+
