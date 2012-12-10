@@ -1,0 +1,15 @@
+---
+title: La productividad intangible
+category: programming
+date: 08/12/2012
+description: Sobre la productividad en el desarrollo de software
+
+[Ideas Agiles](http://www.ideasagiles.com/) publicó un excelente [podcast](http://www.ideasagiles.com/podcast/IdeasAgiles-Episodio2.mp3) sobre la "Productividad". Me gusto pero también me lanzó a un tren de pensamientos sobre el tópico que me pareció interesante desarrollar.
+
+Escuchando atentamente me dió la impresión que se desplazaron del qué es la productividad a cómo se consigue. De la definición de productividad, de la forma de medirla y evaluarla, concluyeron moviendose a la manera de conseguirla, los medios. En principio, pense que era escaparse por la tangente, porque cómo se puede conocer un camino sin intuir un destino. Cómo definir la manera de llegar a la productividad sin definir qúe es. Pero inmediatamente pienso el sentido opuesto: el camino como una dirección que señala hacia un lugar, un horizonte. Puedo no estar seguro del punto preciso en el horizonte, pero tengo un norte al que me dirijo, y de ahí una idea de cómo acercarme.
+
+De repente, ese deslizamiento inicial me pareció legitimo y hasta fecundo. Quizas parezca una tonteria pero de la etimologia -la gran Grondona- de producir: producere, pro-: hacia delante, y -ducere: guiar, conducir, y su participio pasivo (según el diccionario etimológico que pispie): ducto, se llega a camino. Entonces, producir sería guiarnos, conducirnos por ese camino. Y la productividad estaría relacionada con las cualidades de ese andar.
+
+En el podcast, acercaron la productividad a la comunicación e integración entre desarrolladores y cliente en un equipo. Señalaron estas características como productividad. Entonces, la productividad podría ser el mejor camino hacia ese algo. Lo fecundo viene de pensar desde esta analogia: el camino más corto no siempre es el mejor: avanzar sin test, sin especificaciones, a ciegas. Tampoco el más largo -agregar docenas de funcionalidades sin feedback, plataformas sobre arquitecturadas, como un anti lean startup- es garantía de que esquivemos al lobo.
+
+Creo que la analogia es rica. Se pueden derivar muchas cosas de esta correlación entre productividad y camino. No todos los caminos se pueden medir ni evaluar de la misma manera. Por eso, la transpolación ridicula del calculo fabril al desarrollo de software a través de las métricas es, por lo menos, inadecuada, cuando no, directamente, contraproducente. Y, por eso, también la productividad no tiene necesariamente que ver con el éxito del producto.

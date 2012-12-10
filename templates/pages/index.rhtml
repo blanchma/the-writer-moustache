@@ -4,15 +4,17 @@
   <% articles.select {|a| a[:date] <= Date.today}[0...10].each_with_index do |article, index| %>
     <article class="post">
       <header>
-        <h1 class="title"><a href="<%= article.path %>"><%= article.title %></a></h1>
+        <% if article.title %>
+          <h1 class="title"><a href="<%= article.path %>"><%= article.title %></a></h1>
+        <% end %>
         <span class="date"><%= article.date %></span>
       </header>
 
       <section class="content">
-          <%#= article.summary %>
-          <%= article.body %>
+          <%= article.summary %>
+          <%#= article.body %>
       </section>
-      <div class="more"><a href="<%= article.path %>">comentar &raquo;</a></div>
+      <div class="more"><a href="<%= article.path %>">más &raquo;</a></div>
     </article>
 
     <% unless index == (articles.length - 1) %>
