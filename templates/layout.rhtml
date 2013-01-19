@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="description" content="<%= @context[:description] || 'Default description' %>" />
+    <meta name="description" content="<%= @context[:description] || 'Otro blog' %>" />
     <link rel="shortcut icon" href="/images/mustache.ico" type="mage/vnd.microsoft.icon"/>
     <link rel="image_src" href="/images/mustachet.png" />
 
@@ -24,7 +24,7 @@
   <body>
     <div class="header">
       <img class="header-mustache" data-angle="0" src="/images/mustachet.png" height="33" width="120">
-      <h1><a href="/">The Writer Moustache</a></h1>
+      <h1><a href="/"><%= I18n.l(:title) %></a></h1>
       <img class="header-mustache" data-angle="0" src="/images/mustachet.png" height="33" width="120">
     </div>
 
