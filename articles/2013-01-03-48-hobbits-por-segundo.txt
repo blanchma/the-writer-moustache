@@ -1,5 +1,5 @@
 ---
-title: Hobbits por segundo (HPS)
+title: 48 Hobbits por segundo
 category: films
 date: 03/01/2013
 description: Analisis de El Hobbit

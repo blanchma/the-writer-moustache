@@ -13,18 +13,18 @@
     <script type="text/javascript" src="/js/base.js"></script>
     <title>
     <% if @path == 'index' %>
-     The Writer Moustache
+     <%= I18n.t("title") %>
     <% elsif @path.split('/').compact.length == 4 %>
-      <%= title %> - The Writer Moustache
+      <%= title %> - <%= I18n.t("title") %>
     <% else %>
-      <%= @path.capitalize.gsub(/[-]/, ' ') %> - The Writer Moustache
+      <%= @path.capitalize.gsub(/[-]/, ' ') %> - <%= I18n.t("title") %>
     <% end %>
   </title>
   </head>
   <body>
     <div class="header">
       <img class="header-mustache" data-angle="0" src="/images/mustachet.png" height="33" width="120">
-      <h1><a href="/"><%= I18n.l(:title) %></a></h1>
+      <h1><a href="/"><%= I18n.t("title") %></a></h1>
       <img class="header-mustache" data-angle="0" src="/images/mustachet.png" height="33" width="120">
     </div>
 
