@@ -1,5 +1,7 @@
 en:
   title: The Writer Moustache
+  more: more
+
   date:
     abbr_day_names:
     - Sun
@@ -37,7 +39,6 @@ en:
       short: ! '%b %d'
       custom: ! '%B %d, %Y'
     month_names:
-    -
     - January
     - February
     - March
