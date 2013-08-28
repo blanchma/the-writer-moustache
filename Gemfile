@@ -1,5 +1,6 @@
 source :rubygems
 
+gem 'rake', group: :development
 gem 'builder'
 gem 'rdiscount'
 gem 'toto', git:  'git://github.com/blanchma/toto-extended.git'

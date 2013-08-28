@@ -12,7 +12,7 @@
           <%= article.summary %>
           <%#= article.body %>
       </section>
-      <div class="more"><a href="<%= article.path %>"><%= l("more") %> &raquo;</a></div>
+      <div class="more"><a href="<%= article.path %>"><%= I18n.t("more") %> &raquo;</a></div>
     </article>
 
     <% unless index == (articles.length - 1) %>
