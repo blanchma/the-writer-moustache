@@ -2,3 +2,4 @@
 *.sublime-workspace
 .rvmrc
 **/**/*.DS_Store
+*.DS_Store
