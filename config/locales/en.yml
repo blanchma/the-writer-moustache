@@ -1,6 +1,7 @@
 en:
   title: The Writer Moustache
   more: more
+  comment: Comment
 
   date:
     abbr_day_names:
