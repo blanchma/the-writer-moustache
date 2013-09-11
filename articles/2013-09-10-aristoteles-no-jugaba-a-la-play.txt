@@ -1,6 +1,6 @@
 ---
 title: Aristoteles no jugaba a la play
-category: essay
+category: philosophy
 date: 10/09/2013
 description: Ensayo sobre el deficit de atencion con un remedio antiguo
 

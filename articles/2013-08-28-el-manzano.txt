@@ -1,6 +1,6 @@
 ---
 title: El Manzano
-category: cuentos
+category: stories
 date: 28/08/2013
 description: Un cuento corto
 

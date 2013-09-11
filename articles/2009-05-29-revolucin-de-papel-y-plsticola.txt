@@ -1,6 +1,6 @@
 ---
 title: Revolución de papel y plásticola
-category: politica
+category: politics
 date: 29/05/2009
 description: Critica a la publicidad de la militancia en Puan
 

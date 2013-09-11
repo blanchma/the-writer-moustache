@@ -1,5 +1,5 @@
 title: 'Iron Man 3: primer trailer'
-category: 'movies'
+category: movies
 date: 23/10/2012
 description: La tercer aparición de la saga ya tiene trailer
 

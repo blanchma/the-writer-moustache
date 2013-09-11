@@ -1,5 +1,5 @@
 title: RubyConf Argentina 2012
-category: code
+category: programming
 date: 24/10/2012
 description: Evento de rubyistas en Argentina
 
