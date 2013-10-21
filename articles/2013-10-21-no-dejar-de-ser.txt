@@ -4,10 +4,8 @@ category: philosophy
 date: 21/10/2013
 description: Ensayo sobre la perseverancia en el ser
 
-No dejar de ser
-
-"Ser o no ser, esa es la cuestión. ¿Cuál es la más noble acción del ánimo: sufrir los tiros y dardos de la cruel Fortuna, o empuñar las armas contra el océano de los males y darles la cara, y acabar con ellos? Morir: Dormir, no más. ¡Y pensar que con un sueño damos fin a la pena y a los mil naturales reveses que forman el patrimonio de la carne...! Es un final deseable y tentador. Morir. Dormir... dormir... ¡Tal vez soñar! "
-											-Shakespeare
+>	"Ser o no ser, esa es la cuestión. ¿Cuál es la más noble acción del ánimo: sufrir los tiros y dardos de la cruel Fortuna, o empuñar las armas contra el océano de los males y darles la cara, y acabar con ellos? Morir: Dormir, no más. ¡Y pensar que con un sueño damos fin a la pena y a los mil naturales reveses que forman el patrimonio de la carne...! Es un final deseable y tentador. Morir. Dormir... dormir... ¡Tal vez soñar! "
+> -Shakespeare
 
 
 Persistir en la existencia es la motivación esencial del hombre en su nivel más primario, más allá de su cualquier formulación consciente.

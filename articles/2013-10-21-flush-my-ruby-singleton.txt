@@ -1,0 +1,83 @@
+---
+title: Flush my Ruby Singleton
+category: programming
+date: 21/10/2013
+description: How to flush ruby singleton vars
+
+Recently I need a singleton in Ruby: "a design pattern that restricts the Instantiation of a class to one object". What I really need was some common logic and common state but only through a long transaction. I could solve this problem in several ways but I chose the singleton pattern.
+
+A Singleton in Ruby is something like this:
+
+<pre><code data-language="ruby">
+    class Logger
+	  def initialize
+	    @log = File.open("development.log", "a")
+	  end
+	   
+	  @@instance = Logger.new
+	 
+	  def self.instance
+	    return @@instance
+	  end
+	 
+	  def log(msg)
+	    @log.puts(msg)
+	  end
+	 
+	  private_class_method :new
+	end
+	 
+	Logger.instance.log('Something')
+</code></pre>
+
+ 
+But Ruby includes a [Singleton](http://ruby-doc.org/stdlib-2.0.0/libdoc/singleton/rdoc/Singleton.html) module built-in. 
+
+<pre><code data-language="ruby">
+	class Klass
+	  include Singleton
+	  # ...
+	end
+</code></pre>
+
+
+But what happen if you want to reset your Singleton instance? Example:
+
+<pre><code data-language="ruby">
+	class Calculator
+	  include Singleton
+
+	  def initialize
+	    @max = Ranking.maximum(:value)
+	    @min = Ranking.minimum(:value)
+	  end
+
+	  def calculate
+	    #do something 
+	  end
+	end
+</code></pre>
+
+I need in some moment to refresh both vars, I want Calculator.instance build a new Calculator. I need a way to signal the Singleton to flush his instance and build a new one.
+
+If you don't have many singleton classes or you just want this odd behavior in one class:
+
+<pre><code data-language="ruby">
+	class Calculator
+	  def self.reset
+	    self.instance_variable_set "@singleton__instance__",nil
+	  end
+	end
+</code></pre>
+
+But if we want something more global:
+
+<pre><code data-language="ruby">
+	module Singleton
+	  module SingletonClassMethods 
+	    def reset
+	      self.instance_variable_set "@singleton__instance__",nil
+	    end
+	  end
+	end
+</code></pre>

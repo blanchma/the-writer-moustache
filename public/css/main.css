@@ -1,4 +1,4 @@
-f@font-face {
+@font-face {
   font-family: Fontdinerdotcom;
   src: url('FontdinerdotcomLoungy.ttf');
 }
@@ -135,9 +135,7 @@ h1, h2, h3, h4 {
 ul, li {
   list-style-type: none;
 }
-code {
-  font-family: 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
-}
+
 pre {
   padding: 20px;
 }
