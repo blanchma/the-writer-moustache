@@ -81,3 +81,5 @@ But if we want something more global:
 	  end
 	end
 </code></pre>
+
+NOTE: It's controversial if a Singleton can be resetable and being a Singleton. The definition of Singleton comes from the mathematical idea of a set of only one element. Reset a Singleton doesn't break that rule. In any case, the intention of this hack is to add a new optional behavior for certain cases, even if it outside the Singleton pattern, but it's still what need in our particular case and we shouldn't make things more complex because pure orthodoxy.
