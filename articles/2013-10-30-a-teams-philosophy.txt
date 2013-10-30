@@ -1,0 +1,25 @@
+---
+title: A team's philosophy
+category: essay
+date: 30/10/2013
+description: Short essay about development's teams
+
+Even when we work in a start-up, we can continue thinking as in a factory. This is the idea of a developer as factory worker, a resource, that produces code. A piece in a bigger machine with one function: code, code, code.
+
+Each worker-developer is part of this designed and managed plan of production of a software system and each of them is a replaceable for other worker of the same seniority. Seniority for a factory is above all: productivity, quantitative production. More seniority, more code at the end of the day. 
+
+Knowledge in this philosophy is just information. So sharing is communication of information. A training is a way to transfer knowledge from one worker to another one. And a product is the result of a plan of production through the work of the resources.
+
+But a product is the result of the work of a team, not just the aggregation of workers, but the organic result of the virtuous relations between the team members. Communication is a perpetual state, it's just the way it is a team. Without it, there is not team. And the sharing of knowledge happens naturally in the interchange, not just as information, but as skills and understanding of reasons and principles in the business logic and the code.
+
+Productivity is not an individual asset but a collective result as a team. If you remove or add a member of a team, you're not just changing it, you're creating a new team, a new play. New virtuous or virtuous results from this brand new groupal compound.
+
+The seniority of the team member is not necessarily related to his individual productivity rate but to the benefits to the whole team to have a this disposition more skills and knowledges.
+
+A team doesn't produce code, produces solutions. A good team produces better solutions between the wide range of possible ones. Rarely there's one solution and one way to implement this. Most of the time, there's a lot and some of them are better: more scalable, robust, legible, etc.
+
+The factory's philosophy thinks the team as a code's producer machine and productivity as the main indicator of his utility. The developers are working pieces of this machine. An agile team is organic, it grows with the right nurtures and becomes bigger and more productive without even adding a new member but it also can die without removing any of them if it's privated of a good environment.
+
+Removing and adding a member is not playing with the pieces of a machine but pruning and grafting a tree.
+
+Which perspective is better? I don't know but, at least, I know in which one I prefer to work and grow.
