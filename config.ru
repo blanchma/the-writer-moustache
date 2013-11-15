@@ -3,10 +3,15 @@ Bundler.setup
 
 require 'toto'
 require 'i18n'
+require 'rack/cors'
 
 # Rack config
 use Rack::Static, :urls => ['/css', '/js', '/images', '/favicon.ico'], :root => 'public'
 use Rack::CommonLogger
+
+after do
+  headers({ 'X-Frame-Options' => 'ALLOW-FROM apps.facebook.com' })
+end
 
 if ENV['RACK_ENV'] == 'development'
   use Rack::ShowExceptions

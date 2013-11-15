@@ -135,4 +135,10 @@ Algunos de nosotros no perdemos la esperanza de ver una resurrección masiva del
 
 De estos casi veinte años surgieron muchísimas anécdotas y un grupo de amigos. Ya no nos atrevemos a jugar un viernes porque sabemos que no hay partida que pueda ganarle a Orfeo ni nos bancamos partidas maratónicas pero aún así a pesar que ahora somos padres, estudiamos, trabajamos todos los días y tenemos familia, seguimos regularmente juntándonos a revivir esas anécdotas y crear nuevas.
 
-
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#albumRolero').elastislide({
+				minItems : 3
+    });
+  })
+</script>

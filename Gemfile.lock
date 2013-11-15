@@ -13,6 +13,7 @@ GEM
     builder (3.1.4)
     i18n (0.6.1)
     rack (1.4.1)
+    rack-cors (0.2.9)
     rake (10.1.0)
     rdiscount (1.6.8)
     shotgun (0.9)
@@ -24,6 +25,7 @@ PLATFORMS
 DEPENDENCIES
   builder
   i18n
+  rack-cors
   rake
   rdiscount
   shotgun
