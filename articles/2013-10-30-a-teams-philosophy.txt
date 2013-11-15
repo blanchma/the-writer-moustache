@@ -4,7 +4,7 @@ category: essay
 date: 30/10/2013
 description: Short essay about development's teams
 
-Even when we work in a start-up, we can continue thinking as in a factory. This is the idea of a developer as factory worker, a resource, that produces code. A piece in a bigger machine with one function: code, code, code.
+Even when we work in a start-up, we can continue thinking as a factory. This is the idea of a developer as factory worker, a resource, that produces code. A piece in a bigger machine with one function: code, code, code.
 
 Each worker-developer is part of this designed and managed plan of production of a software system and each of them is a replaceable for other worker of the same seniority. Seniority for a factory is above all: productivity, quantitative production. More seniority, more code at the end of the day. 
 
