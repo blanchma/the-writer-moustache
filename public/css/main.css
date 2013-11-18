@@ -174,3 +174,43 @@ body > footer {
   margin: 0 auto;
   width: 600px;
 }
+
+.cover {
+  width: 250px;
+  height: auto;
+  padding: 5px;
+  float: left;
+  padding-right: 10px;
+}
+
+.small {
+  width: 150px;
+}
+
+.right {
+  float: right;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+ 
+.clearfix {
+    display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+    display: block;
+}
+ 
+* html .clearfix {
+    height: 1%;
+}
+
