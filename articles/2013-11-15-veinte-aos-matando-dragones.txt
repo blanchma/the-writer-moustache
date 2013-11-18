@@ -5,6 +5,10 @@ date: 15/11/2013
 description: De cómo me pase los últimos veinte años con mis amigos matando orcos
   y profundos
 
+<div class="centered">
+<object width="600" height="400"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F108835226%40N07%2Fsets%2F72157637800467574%2Fshow%2Fwith%2F10876511514%2F&page_show_back_url=%2Fphotos%2F108835226%40N07%2Fsets%2F72157637800467574%2Fwith%2F10876511514%2F&set_id=72157637800467574&jump_to=10876511514"></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F108835226%40N07%2Fsets%2F72157637800467574%2Fshow%2Fwith%2F10876511514%2F&page_show_back_url=%2Fphotos%2F108835226%40N07%2Fsets%2F72157637800467574%2Fwith%2F10876511514%2F&set_id=72157637800467574&jump_to=10876511514" width="400" height="300"></embed></object>
+</div>
+
 ####El niño y el ewok
 
 Hoy tengo treinta años con lo cual muchos detalles de mi iniciación al rol se empiezan a sumergir en las brumas de mi mala memoria aún siendo uno de los hitos más importantes de mi vida. Al menos, por todo lo que significo y trajo consigo a lo largo de mi vida. El rol condiciono amigos y lecturas, lo cual, creo, finalmente, condiciono mi personalidad. Dicen que las personas que leen viven una nueva vida con cada libro. Creo que cada viernes, sábado o domingo que me pase varias horas interpretando a un mago, un pato (si, fui un hombre pato en RQ), un vampiro, un hombre lobo, un jedi, un sacerdote, un poeta y tantos otros que ya ni recuerdo, viví, al menos, por unas horas otro vida.
@@ -21,7 +25,7 @@ Mis hermanos siguieron jugando con la gente que los inicio. Jugaban Stormbringer
 
 En aquella época, los 90' se podían conseguir juegos de rol en cualquier librería grande. Era una época dorada para el rol con un boom en España de donde se importaban los libros. La industria nacional dio nacimiento a muy pocos juegos: Toon y Killer. Ambos de Ediciones de Mente. Convencimos a mi mamá para que nos llevara a Capital, bazar del mundo, y gastar nuestros ahorros en un juego de rol.
 
-Conseguimos Runequest. Fue la peor compra que pudimos hacer en ese momento. El manual estaba más allá de nuestra capacidad de comprensión. Decía "percentiles", por todos los dioses! No teníamos chance. Hoy día con una veintena de manuales en mi haber, el manual sigue siendo difícil de entender. En ese entonces, comprenderlo hubiese sido épico. No pudimos dirigirlo hasta años más tarde cuando conseguimos la segunda parte: Runequest avanzado. Lo cual dio lugar años después de nuestra iniciación, a un par de gloriosos años de Runequest dirigido por Juan.
+Conseguimos Runequest. Fue la peor compra que pudimos hacer en ese momento. El manual estaba más allá de nuestra capacidad de comprensión. Decía "percentiles", por todos los dioses! No teníamos chance. Hoy día con una veintena de manuales en mi haber, el manual sigue siendo difícil de entender. En ese entonces, comprenderlo hubiese sido épico. No pudimos dirigirlo hasta años más tarde cuando conseguimos la segunda parte: Runequest avanzado. Lo cual dio lugar más adelante, a un par de gloriosos años de Runequest dirigido por Juan.
 
 ####Nuestro primer manual
 
