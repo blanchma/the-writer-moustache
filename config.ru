@@ -15,6 +15,7 @@ end
 Encoding.default_external = Encoding::UTF_8
 I18n.load_path += Dir.glob("config/locales/*.yml")
 I18n.locale = :es
+I18n.default_locale = :es
 
 toto = Toto::Server.new do
   #
