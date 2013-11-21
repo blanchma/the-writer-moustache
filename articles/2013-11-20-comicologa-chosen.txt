@@ -6,6 +6,7 @@ description: Reseña sobre el comic Chosen de Mark Millar
 summary: Chosen es la historia de Jodie Christianson, un chico de doce años, en un pueblito de América que descubre que él es el Mesías
 
 <img src="/images/store/chosen.jpg" class="cover left" title="Chosen">
+<link rel="image_src" href="/images/store/chosen.jpg" />
 
 En cualquier pieza de arte donde se trasluce la vida cotidiana, hay un enorme desafío: ser fiel a ésta, no saturarla con la artificiosidad de un guión forzado. Mark Millar logra evocar en este comic la infancia de un chico de doce años en un pequeño pueblo americano en los 80'. Creo que lo mejor logrado del comic, se encuentra en los guiones entre los adolescentes y, a pesar del poco espacio, el desarrollo de ciertos personajes claves. Una historia a la que Gross logra poner una paleta de colores evocativa en cada viñeta de una vida bucólica pero sin dejar de poblarlas con todos esos detalles necesarios para que la escena no sea un lienzo para los diálogos. Son fotografías de esa vida.
 
@@ -13,6 +14,8 @@ En ningún momento, volvemos nuestra vista al marco del televisor -o el comic en
 
 No quiero adelantar nada, incluso la sinopsis con que se vende, me parece revelar demasiado. Prefería convencer al lector con la promesa de que no se va a arrepentir pero para asegurarme que no tengan dudas procedo a reproducir la introducción del mismo: Chosen es la historia de Jodie Christianson, un chico de doce años, en un pueblito de América que descubre que él es el Mesías, contada a sus 33 años cuando se prepara para viajar a Israel. Ya esta, lo dije! Esta es la sinopsis. En tres números que se devoran como pan con manteca, Mark Millar, conocido por su trabajo en Marvel y su ahora famoso: Kick Ass, nos cuenta una excelente historia que nos deja manija por una secuela.
 
+[How to Arsenio Lupin](http://howtoarsenio.blogspot.com.ar/2010/07/chosen.html) (descarga gratuita)
 
+[Amazon España](http://www.amazon.es/American-Jesus-Chosen-v-1/dp/160706006X/ref=sr_1_3?ie=UTF8&qid=1385054346&sr=8-3&keywords=Chosen+comic)
 
-
+[Amazon USA](http://www.amazon.com/Chosen-Mark-Millar/dp/1593072139/ref=sr_1_1?ie=UTF8&qid=1385054470&sr=8-1&keywords=Chosen+comic+Millar)
