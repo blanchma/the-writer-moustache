@@ -213,3 +213,7 @@ html[xmlns] .clearfix {
     height: 1%;
 }
 
+.fb-like {
+  display: block !important;
+  text-align: right;
+}
