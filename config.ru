@@ -22,22 +22,22 @@ toto = Toto::Server.new do
   # Add your settings here
   # set [:setting], [value]
   set :url,         "http://thewritermoustache.com/"
-  set :author,      "Tute"                                      # blog author
+  set :author,      "Tute"                                    # blog author
   # set :title,     Dir.pwd.split('/').last                   # site title
   # set :root,      "index"                                   # page to load on /
   set :markdown,    :smart                                    # use markdown + smart-mode
-  set :disqus,      "thewritermoustache"                        # disqus id, or false
+  set :disqus,      "thewritermoustache"                      # disqus id, or false
   # set :summary,   :max => 150, :delim => /~/                # length of article summary and delimiter
   # set :ext,       'txt'                                     # file extension for articles
-  # set :cache,     28800                                    # cache duration, in seconds
+  set :cache,        28800                                    # cache duration, in seconds
+  set :locale,  "thewritermoustache.com" => "en", "elbigoteescritor.com" => "es", "localhost" => "es"
 
   #set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") } #I18n.l now
   set :date, lambda {|now| I18n.localize(now, :format => :custom) }
-
-   set :error     do |code|
-     #ERB.new(File.read("#{path}/#{page}.rhtml")).result(ctx)
-     "<font style='font-size:300%'> 404, wrong page(#{code})</font>"
-   end
+  set :error     do |code|
+   #ERB.new(File.read("#{path}/#{page}.rhtml")).result(ctx)
+   "<font style='font-size:300%'> 404, wrong page(#{code})</font>"
+  end
 end
 
 run toto

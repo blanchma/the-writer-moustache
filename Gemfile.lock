@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/blanchma/toto-extended.git
-  revision: ee3ec01aa1a1b2cd66b6ffe26676e8d7cd1f74af
+  revision: 26e95e21d83888a607d03622fdd459f2ac8425d7
   specs:
     toto (0.4.9)
       builder
