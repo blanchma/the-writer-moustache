@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="stylesheet" type="text/css" href="/css/elastislide.css">
     <link rel="stylesheet" type="text/css" href="/css/solarized-dark.css">
@@ -10,9 +11,9 @@
     <meta name="description" content="<%= @context[:description] %>" />
     <meta property="og:site_name" content="<%= I18n.t("title") %>" />
     <meta property="og:title" content="<%= title == "app" ? I18n.t("title") : "#{title} - #{I18n.t("title")}" %>" />
-    <meta property="og:image" content="<%= "#{@config[:url]}images/mustachet.png" %>" />
+    <meta property="og:image" content="<%= "#{@config[:url]}images/thumb_moustache.png" %>" />
     <link rel="shortcut icon" href="/images/mustache.ico" type="mage/vnd.microsoft.icon"/>
-    <link rel="image_src" href="/images/mustachet.png" />
+    <link rel="image_src" href="/images/thumb_moustache.png" />
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jquery.rotate.js"></script>
@@ -38,11 +39,13 @@
       <img class="header-mustache" data-angle="0" src="/images/mustachet.png" height="33" width="120" alt="">
     </div>
 
-    <section id="main">
+    <section class="container wrapper">
       <%= yield %>
     </section>
 
-    <footer></footer>
+    <footer>
+      Tute
+    </footer>
     <div id="fb-root"></div>
   </body>
   <script>
