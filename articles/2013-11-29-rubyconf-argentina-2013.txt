@@ -36,10 +36,13 @@ El punto flojo. Es claro que las charlas obedecen a un esquema de categorías ta
 
 Para que una charla rinda en esos términos, el orador tiene que manejar el tiempo con efectividad. Este año más que ningún otro se noto la falta de experiencia o habilidad de muchos oradores de lograr esto. Al final de la charla, no habían llegado ni a redondear la idea. Apenas se podía tomar nota de algún link, un título, una idea en tres palabras. No voy detenerme en los nombres de las charlas que no me gustaron por respeto al esfuerzo que cada orador hizo pero voy a señalar lo que para mi fueron los errores claves:
 
-- Demasiado humor, a veces, hasta lo patético, en detrimento de mostrar el objetivo de la presentación. Pero sólo una presentación llego al nivel de infame stand up como en 2012.
-- Falta de un hilo conductor. Ciertas charlas parecían zigzaguear de un tema al otro sin concluir una idea general. Hubo lighting talks más concisas en cinco minutos que algunas de estas presentaciones en media hora.
-- Muy personales. Creo que la intención es que fuera inspiracionales pero era imposible extraer algo más allá del cuento auto biográfico. 
-- Charlas enumerativas. Aunque la intención es mostrar alternativas, tips, para acercarse a un problema. A veces, pasaban de una librería a la otra sin llegar a desnudar el problema. La conclusión: una lista de links que no queda claro sobre qué eran.
+\- Demasiado humor, a veces, hasta lo patético, en detrimento de mostrar el objetivo de la presentación. Pero sólo una presentación llego al nivel de infame stand up como en 2012.
+
+\- Falta de un hilo conductor. Ciertas charlas parecían zigzaguear de un tema al otro sin concluir una idea general. Hubo lighting talks más concisas en cinco minutos que algunas de estas presentaciones en media hora.
+
+\- Muy personales. Creo que la intención es que fuera inspiracionales pero era imposible extraer algo más allá del cuento auto biográfico. 
+
+\- Charlas enumerativas. Aunque la intención es mostrar alternativas, tips, para acercarse a un problema. A veces, pasaban de una librería a la otra sin llegar a desnudar el problema. La conclusión: una lista de links que no queda claro sobre qué eran.
 
 Hubo algunas charlas interesantes y que se podían disfrutar, por ejemplo, "Separando un monorriel", aunque evalué la posibilidad de taclear a Sergio para que no siguiera gastando el piso del escenario. Al margen de su movimiento rectilíneo uniforme, la charla fue buena e interesante. De vez en cuando esta bueno escuchar que la gente defienda Rails a pesar de la moda de "odiar Rails".
 
