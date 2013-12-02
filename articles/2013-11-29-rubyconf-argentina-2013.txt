@@ -4,6 +4,8 @@ category: programming
 date: 29/11/2013
 description: Organización, oradores, lugar y otras frutas sobre la RubyConfAr2013
 
+<link rel="image_src" href="/images/store/rubyconfar-2013.png" />
+
 El martes 26 de Noviembre comenzó la tercer instancia de [RubyConf Argentina](http://rubyconfargentina.org/es/) con un Ruby Fun Day, una serie de talleres para aprender y conocer más sobre Ruby. Pero el evento principal fue los días 27 y 28 en el Konex. Argentina es uno de los dos países de Latinoamérica (al menos no escuche de ningún otro) junto con Uruguay que tiene una comunidad suficientemente activa para dedicar el esfuerzo de armar un evento de esta magnitud con éxito en tres oportunidades. Aunque hay diversas conferencias sobre IT a lo largo del año, son pocas las comunidades de un lenguaje que logran eventos como estos. Las más recientes son la PHPConf y la JSConf aunque esta fue hace más de un año y en 2013, lamentablemente, no se repitió la JSConf. Pero al margen de esta importante valoración, no puedo privarme de hacer el ejercicio critico habitual sobre la conferencia.
 
 #### Lugar: Konex
