@@ -1,0 +1,62 @@
+---
+title: RubyConf Argentina 2013
+category: programming
+date: 29/11/2013
+description: Organización, oradores, lugar y otras frutas sobre la RubyConfAr2013
+
+El martes 26 de Noviembre comenzó la tercer instancia de [RubyConf Argentina](http://rubyconfargentina.org/es/) con un Ruby Fun Day, una serie de talleres para aprender y conocer más sobre Ruby. Pero el evento principal fue los días 27 y 28 en el Konex. Argentina es uno de los dos países de Latinoamérica (al menos no escuche de ningún otro) junto con Uruguay que tiene una comunidad suficientemente activa para dedicar el esfuerzo de armar un evento de esta magnitud con éxito en tres oportunidades. Aunque hay diversas conferencias sobre IT a lo largo del año, son pocas las comunidades de un lenguaje que logran eventos como estos. Las más recientes son la PHPConf y la JSConf aunque esta fue hace más de un año y en 2013, lamentablemente, no se repitió la JSConf. Pero al margen de esta importante valoración, no puedo privarme de hacer el ejercicio critico habitual sobre la conferencia.
+
+#### Lugar: Konex
+
+Este año fue en Ciudad Cultural Konex. En 2012, fue en Paseo La Plaza. Supongo los organizadores tuvieron buenos motivos para volver al Konex donde se realizó la primer RubyConf, pero ninguno de los dos resultó ser el mejor lugar por diferentes motivos. El Konex tiene la gran ventaja de ser espacioso, algo que en Paseo La Plaza faltaba y se sufrió. En este con una concurrencia de más de 300 personas, al desalojarse la sala, la terraza se saturaba y era molesto encontrarse atrapado por los astutos grupos que decidían que las tres puertas dispuestas para permitir ingresar y egresar al flujo humano eran excelentes lugares para conversar, comer o simplemente contemplar la escena. No obstante, superada la congestión inicial, Paseo La Plaza ubicado en una paseo comercial agradable permitía dispersarse un poco por el mismo.
+
+El Konex cuenta con muchísimo espacio pero el lugar es espantoso y el barrio le hace juego. Pero no es en la estética donde encuentro lo peor del Konex sino en la sala principal que aunque muy grande estaba permanentemente a oscuras, efectivo aliciente para que más de uno encontrará refugio en la ausencia de luz para descansar los ojos, las piernas y el cerebro con unas restauradoras siestas de 30 minutos con la voz monocorde de algún orador para facilitar el salto a los brazos de Orfeo.
+
+#### Organización
+
+Otros años me fui más descontento con la organización pero aprendieron y este año no podría quejarme de prácticamente nada, pero si le doy vía libre a mi vena argentina de gataflorismo podría encontrar varios "nice to have". Este año no hubo problemas de conexión eléctrica. Algo que si ocurrió en Paseo La Plaza donde había unas pocas zapatillas dispuestas por que no se podía cargar en el auditorio y alcanzar esas zapatillas ameritaban unas cuantas estrofas de poemas épicos para celebrarlo.
+
+Internet es siempre la oveja negra. Con un celular más otras tantas computadoras conectadas en simultaneo, la red nunca alcanza para una conferencia de programadores, un especie de monstruo devorador de bits. Es altamente problemático porque un programador necesita comer, beber, liberar, dormir y conectarse a Internet. Todas con casi el mismo nivel de necesidad vital. Al margen de los hábitos de los programadores, la conferencia es sobre programación. Las charlas te incentivan a buscar más sobre lo que los oradores hablaron. Ni hablar de codear algo o hacer pair programming en los breaks. Sin conexión a Internet, esto es imposible. Este año los cortes fueron más breves, la red fue más estable, pero aún así se padeció por momentos.
+
+El catering fue superlativo. No había un momento que faltara comida, café, gaseosa o agua. Es el A de la conferencia sin lugar a dudas. El mobiliario aunque no tan guapo como el que instalaba Urban Station cumplía su objetivo aunque a veces se siente la necesidad de más, especialmente, para aquellos que quieren hackear o necesitan terminar algo del trabajo. No vendrían mal unos cuantos sillones adicionales.
+
+#### Drinkups
+
+La drinkup del primer día la banco Eventioz. No me gusta el bar del Konex, es tan feo como todo el lugar. Para colmo, sólo había cerveza Quilmes, es la Pritty o la Tai Cola de las cervezas. No soy un dandi, pero es una preferencia personal con lo cual no tengo problema en pagar una cerveza acorde a mi gusto pero el bar no tenía ninguna opción. La joda de la drinkup es charlar, socializar. Algo en lo que no me destacó a menos que me tiren a la jaula de los leones y no me quede otra. Prefiero la placida comodidad de mi grupo de compañeros, con lo cual, me pierdo un 50% del valor del evento. La cerveza no es lo esencial pero es un drinkup, no vamos a tomar agua y tampoco voy a tomar algo horrendo.
+
+La drinkup del segundo día fue sin sponsor. Cada cual pagaba su consumición. No lo veo mal. Es genial que alguien pague la cerveza pero me parece más importante que el lugar sea cómodo, agradable. Que me pueda relajar, charlar y tomar una cerveza de verdad. Después de un desencuentro en Antares, terminamos en Club Serrano donde las mozas siguiendo algún astuto lineamiento del local pretendía imponer algún orden a una hipotética, pero segura horda de personas de número indeterminado, en estricto orden militar mesa a mesa. Incapaces de comprender la naturaleza del encuentro casi salimos picando a otro bar pero, finalmente, con un poco de flexibilidad, nos dieron la libertad de sentarnos donde quisiéramos. Cuando les cayó la ficha ante la invasión de conferenciantes, agregaron más mozas para dar abasto con la demanda de un ejercito de hambrientos bebedores que no iban a respetar la restricción de no ocupar tal o cual pasillo pero que iban a compensar la infracción en metálico.
+
+Las drinkups son vertebrales de estos eventos. No importa que dicte el último decreto de corrección política sobre las mismas. Después de 8 hora de charlas, no hay nada mejor que sentarse, comer algo, tomar una bebida fría (para mi si es una buena cerveza bien fría, mil veces mejor) y recapitular el día. Para aquellos con menos timidez que yo, un poco de social networking más relajado. Una conferencia sin una drinkup sería como una excursión al museo de Ciencias Naturales, sin dinosaurios.
+
+#### Oradores
+
+El punto flojo. Es claro que las charlas obedecen a un esquema de categorías tales como: "inspiracional", "Rails", "infraestructura", "diseño", "high level", "otros lenguajes" etc. La intención de un esquema así es mantener una conferencia variada que no sea solo de Ruby sino que tenga un poco para el entrepreuner, el desarrollador, el devops, el teórico y el aficionado. En la RubyConf Argentina 2011, algunas charlas duraban 40 minutos. Este año todas se limitaron a los treinta minutos.
+
+Para que una charla rinda en esos términos, el orador tiene que manejar el tiempo con efectividad. Este año más que ningún otro se noto la falta de experiencia o habilidad de muchos oradores de lograr esto. Al final de la charla, no habían llegado ni a redondear la idea. Apenas se podía tomar nota de algún link, un título, una idea en tres palabras. No voy detenerme en los nombres de las charlas que no me gustaron por respeto al esfuerzo que cada orador hizo pero voy a señalar lo que para mi fueron los errores claves:
+
+- Demasiado humor, a veces, hasta lo patético, en detrimento de mostrar el objetivo de la presentación. Pero sólo una presentación llego al nivel de infame stand up como en 2012.
+- Falta de un hilo conductor. Ciertas charlas parecían zigzaguear de un tema al otro sin concluir una idea general. Hubo lighting talks más concisas en cinco minutos que algunas de estas presentaciones en media hora.
+- Muy personales. Creo que la intención es que fuera inspiracionales pero era imposible extraer algo más allá del cuento auto biográfico. 
+- Charlas enumerativas. Aunque la intención es mostrar alternativas, tips, para acercarse a un problema. A veces, pasaban de una librería a la otra sin llegar a desnudar el problema. La conclusión: una lista de links que no queda claro sobre qué eran.
+
+Hubo algunas charlas interesantes y que se podían disfrutar, por ejemplo, "Separando un monorriel", aunque evalué la posibilidad de taclear a Sergio para que no siguiera gastando el piso del escenario. Al margen de su movimiento rectilíneo uniforme, la charla fue buena e interesante. De vez en cuando esta bueno escuchar que la gente defienda Rails a pesar de la moda de "odiar Rails".
+
+"Lo suficiente de Unix como para ser peligroso" fue instructiva pero peco de enumerativa. Fue una charla de 30 minutos a alta velocidad. No obstante, Adrián mantuvo la claridad hasta el tramo final donde en un sprint diabólico se esforzó por completar los temas que pretendía dar en la misma.
+
+Si hay temas jodidos para una presentación, entre estos, debe estar la criptografía. Pero en "Ruby Kriptography", pudimos tener un vislumbre sobre alguno de los problemas y soluciones a los algoritmos que usamos sin pensar en nuestras apps y una dosis saludable de paranoia.
+
+"Code Club" me dejo pensando a mi y a mis compañeros sobre la posibilidad de implementarlo en Argentina. Creo que es algo que se puede llevar a cabo en la Argentina con no poco esfuerzo pero factible aún. 
+
+"Olvídate de las clases" me dejó con algunas dudas. Fue otra charla enumerativa. Por momentos, trató de los principios de SOLID en un intento de plantear un OOP más puro pero tuve la impresión que no terminó de convencer cuando de un purismo pragmático deslizó a una ortodoxia inútil.
+
+Mi favorita fue "Rack and Roll". Enumerativa pero concisa. Si hay algo que un desarrollador web Ruby tiene que saber es Rack y esta charla dio bases fundamentales para animarse a tocar un poco los cables de Rails así como todos los micro frameworks alternativos: Cuba, Sinatra, Grapes, Padrino, Toto, etc.
+
+Otra charla técnica fue "Construyendo una plataforma de datos con Ruby glue". Seguramente, más de uno todavía esta dándole vueltas pero es un problema corriente y la solución más que válida. Más de un desarrollador se llevo alguna idea para su casa.
+
+Esta lista no es exhaustiva, tampoco es salvadora. Algunas de las charlas citadas, como mencione, tenían sus problemas pero son las mejores que presencie. En defensa de las no mencionadas, me perdí algunas.
+
+Este año me quede disconforme con las charlas. Contenidos y oradores no estuvieron a la altura de mis expectativas. Tengo que admitir que es jodido competir con alguno de los oradores que vimos en las dos primeras RubyConf: Scott Chacon, Aaron Patterson, Tom Preston-Werner, Mat Aimonetti, Andy Atkinson, Steve Klabnik, etc.
+
+#### Conclusión
+
+Si queremos una RubyConf Argentina 2014, va a ser necesario un esfuerzo por reclutar mejores oradores. La organización del evento fue buena. El catering de primera. El lugar podría ser mejor y favorecer un mejor ambiente. Y, por supuesto, un poco de cariño por las drinkups.

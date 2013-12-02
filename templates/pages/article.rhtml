@@ -2,7 +2,10 @@
   <header>
     <h1 class="title"><%= title %></h1>
     <span class="date"><%= date %></span>
-    <div class="fb-like" data-href="<%= @config[:url] + @path %>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    <div class="shares">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" >Tweet</a>
+      <div class="fb-like" data-href="<%= @config[:url] + @path %>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
   </header>
 
   <section class="content">
