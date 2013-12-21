@@ -217,11 +217,28 @@ html[xmlns] .clearfix {
 }
 
 .shares {
-  display: block !important;
+  display: inline !important;
   text-align: right;
   height: 15px;
 }
 
 .twitter-share-button {
   width: 85px !important;
+}
+.centered-image {
+  display: block;
+  text-align: center;
+  max-height: 250px;
+  max-width: 450px;
+  widht: auto;
+  margin: 0 auto;
+  padding: 5px;
+}
+.large-image {
+  float: left;
+  text-align: left;
+  max-height: 250px;
+  widht: auto;
+  margin: 0 auto;
+  padding: 5px; 
 }
