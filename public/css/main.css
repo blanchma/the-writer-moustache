@@ -234,6 +234,15 @@ html[xmlns] .clearfix {
   margin: 0 auto;
   padding: 5px;
 }
+.medium-centered-image {
+  display: block;
+  text-align: center;
+  max-width: 450px;
+  widht: auto;
+  margin: 0 auto;
+  padding: 5px;
+}
+
 .large-image {
   float: left;
   text-align: left;
@@ -241,4 +250,9 @@ html[xmlns] .clearfix {
   widht: auto;
   margin: 0 auto;
   padding: 5px; 
+}
+.evaluacion {
+  font-weight: bold;
+  font-size: 0.9em;
+  margin-left: 10px;
 }

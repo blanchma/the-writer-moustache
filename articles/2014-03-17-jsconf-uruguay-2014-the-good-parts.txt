@@ -1,0 +1,186 @@
+---
+title: ! 'JSConf Uruguay 2014: The Good parts'
+category: programming
+date: 17/03/2014
+description: Extensa, demasiado extensa, revisión de la JSConf en Montevideo
+
+Concluyó la JSConf Uruguay en Montevideo con la presencia estelar de *Douglas “Eval is evil” Crockford*, *Jeremy “Hice la vida en Javascript” Ashkenas* y *Guillermo “Tiro Magia con Sockets” Rauch*, entre otros grosos. Con los muchachos de [SCV Soft](https://twitter.com/scvsoft), un total de diez "seres humanos" y una guitarra (más otro dos que salieron antes porque fueron speakers, haciendo un total de doce), salimos el jueves en un lanchón con techo de Colonia Express y llegamos el mismo día a Montevideo un par de horas más tarde<a id="n1" href="#1" class="note">(1)</a> y un bus de por medio.
+
+Paramos en [Puerto Berro](http://www.booking.com/hotel/uy/punto-berro-hostel.es.html) que resultó bien con la excepción que en uno de los tres cuartos había “chinches de cama” (Bed bugs) que violaron el sacro santo cuerpo de algunos infortunados. Cenamos esa misma noche a la vuelta del hostel y nos sorprendió que la pizzeta fuera más grande que una pizza. Todavía no estamos seguros si es una diferencia idiomática como con chivito que para nosotros, los argentinos, es un [animalito](http://4.bp.blogspot.com/-TmfBUymWEyY/TXk5p6hxYYI/AAAAAAAAA2o/Zu9mm44AIsI/s1600/chivito.jpg) simpático y comestible y para ellos, un [sándwich](http://uruguay.pordescubrir.com/wp-content/uploads/2008/05/chivito.jpg); o acaso fue el mala onda del mozo el responsable de esta inversión semántica<a id="n2" href="#2" class="note">(2)</a>.
+
+### ¿Secuela o reboot?
+
+Sino entendí mal, Guillermo Rauch, organizador de la JS Conf Argentina, les pasó la posta a los chicos de la JSConf Uruguay. De cualquier forma, mantuvieron el nombre pero el resultado fue distinto. Se mantuvo la idea de dos tracks: uno compuesto de presentaciones y otro de talleres pero las primeras fueron todas, más o menos, técnicas, sin ninguna perorata de auto-ayuda, de las que abundaron en la edición porteña. 
+
+### El auditorio y el internet-less hell
+
+El auditorio fue el mismo que la última RubyConf Uruguay: [la Torre Antel](http://www.antel.com.uy/antel/institucional/nuestra-empresa/complejo-torre/). El mejor auditorio que conocí hasta el momento. Espacioso, limpio, conexión eléctrica adentro del auditorio y wifi… cuando lograbas por virtud de la Diosa Fortuna conectarte. Uno podía estar peleando por recibir un mail del cliente preocupado por la caída de un servicio en producción mientras otro estaba leyendo [Poorly Drawn Dinosaurs](http://poorlydrawndinosaurs.com/) y chateaba con el flaco de al lado. El problema es el Síndrome Cyborg, cada programador quiere conectar su laptop, su teléfono, su tablet… su wearable, su marcapaso y, al final, los programadores son como langostas: caen, se comen todo y te dejan sin internet.  A esta altura, me resigno al ir a una conferencia a tener internet esporádicamente como mucho. Hubo casos peores pero este estuvo lejos de ser feliz.
+
+### El Morfi a.k.a. el cathering
+
+El cathering del evento fue muy bueno aunque tuvo algunos problemas menores. El almuerzo del segundo día casi desencadenó una lucha masiva por un brochette. La comida debería haber estado dispuesta sobre las mesas desde el vamos. Cualquiera que fue a uno de estos eventos sabe que el segundo día, la audiencia esta desesperada por apagar la resaca del día anterior y la cantidad de comida ingerida es 134% más que el primer día. Las bandejas salían demasiado despacio desde el buffet. Todavía tenía hambre cuando se acabó lo salado y pasamos a lo dulce. ¡Lo dulce! Algo que no falto, sobro, canso fue lo dulce. Se me podrá culpar de subjetivo pero el hecho que lo dulce permaneciera en las mesas durante toda la tarde y disminuyera muy lentamente fue un signo indiscutible que la gente no quería más azúcar. Queríamos algo más tangible. Aún con estos detalles, el cathering fue bueno.
+
+<div class="article-divider"><img class="divider-mustache" src="/images/mustachet-divider.png"/></div>
+
+#### Las charlas
+
+Como me concentre en ir a las presentaciones, no asistí a ninguno de los talleres. Me gusta la idea que haya talleres pero la bilocación no esta mi lista de superpoderes y quiero limitarme a lo que escuche y vi, y no reproducir la opinión de otros así que sobre los talleres no voy a decir nada.
+
+### 1er día
+
+Ahora pasemos a la disección de cada presentación. Voy a utilizar la metodología de evaluación Carnegie-Blanch según la cuál se califican por separado de 1 a 5 la Forma y el Contenido. La Forma de la charla incluye carisma, oratoria, slides, efectividad para transmitir el contenido, etc y el Contenido es mi evaluación subjetiva sobre el tópico y la agenda que siguió el presentador.
+
+**DISCLAIMER**: mis comentarios y críticas no tienen la intención de herir susceptibilidades aunque tengan la capacidad de hacerlo. Espero sepan tomarlas constructivamente y con humor.
+
+#### "We play" con Guillermo Rauch
+<div class="evaluacion">Forma 3, Contenido 3</div>
+¿Alguien que habla español nativo tiene necesidad de hablar en ingles cuando hay traductores? Discutible, pero en este caso, creo que el ingles de Guillermo es tan bueno como su español nativo. La presentación tenía potencial. Guillermo se nota es un buen orador pero intentó hacer living code. Cuando veo que alguien se acerca a su laptop para comenzar la sesión de living code, me imagino...
+
+<img src="/images/store/bear_vs_boxer.jpg" alt="The bear and the developer" title="El Oso y el Programador" class="medium-centered-image"></img>
+
+En esta oportunidad, el oso le ganó a Guillermo, lo que hizó que se perdiera el foco y más de uno terminó desorientado sobre el resultado final que fue genial y lo pueden ver en [Weplay.io](http://weplay.io). Le doy un poroto adicional por haber elegido el Pokemon Yellow para demostrar el concepto.
+
+#### "Jade: A templating language” con Forbeys Lindesay
+<div class="evaluacion">Forma 3, Contenido 2</div>
+El HAML del mundo JS con picante. Para algunos, la charla no iba más allá que el README de la tecnología y Jade tampoco es el último grito del templating en JS. Como orador Forbes fue conciso, su acento ingles es más claro que el mio en español pero sus slides eran más aburridas que un capítulo de Marvel Agents of S.H.I.E.L.D. y la presentación peco de una exhaustividad propia de un curso online para una tecnología que claramente no representaría ninguna dificultad para ninguno de la audiencia.
+
+#### "Building for scale with KrakenJS” con Lenny Markus
+<div class="evaluacion">Forma 3, Contenido 3</div>
+Siempre es interesante conocer la experiencia de una empresa al migrar de una tecnología a otra. Es habitual atribuir a las tecnologías emergentes: “no es performante”, “no es escalable”, “no sirve para grandes proyectos”. Pasó con Rails y ahora pasa con NodeJS. Pero Markus mostró un caso de éxito con nada menos que PayPal y nos dio una vuelta por algunas de las librerías que usaron para resolver diversos problemas y homogeneizar el desarrollo de nuevos proyectos: Yeoman, Lusca, Makara y Kappa.
+
+#### "Improving client-side apps' performance with Facebook's React” con Jú Gonçalves
+<div class="evaluacion">Forma 1, Contenido 2</div>
+Fue el primer bache y uno de los pocos en toda la conferencia. Cuando la Forma es muy mala, inevitablemente impacta en el Contenido que fue [Facebook React](http://facebook.github.io/react/), la V del MVC con algunos detalles interesantes para probar. Con un resultado más feliz, le hubiese dado 3 pero el acento cerrado y la voz baja no ayudaban. Leyó la presentación, lo cual, impacta en el énfasis natural que ayuda a que nuestra atención vaya siguiendo el flujo de pensamiento-desarrollo de la misma. Los slides pintaban elegantes, algo que no se había visto hasta el momento, y casi no se suele ver en estas conferencias<a id="n1" href="#3" class="note">(3)</a> pero, por otro lado, eran pocas y cada una intentaba ser un pointer a mucho con lo cual perdían su utilidad natural que es ayudar a seguir el hilo y sostener la atención de la audiencia.
+
+#### “Promises" con James MacAulay
+<div class="evaluacion">Forma 4, Contenido 4</div>
+Una de las razones que se suele esgrimir para aprender nuevos lenguajes es aprender nuevos conceptos de programación. Las promises son uno de estos conceptos. James dió una intro concisa pero efectiva sobre el tema con ejemplos hechos en [kozu](https://github.com/jamesmacaulay/kozu). Los slides fueron muy buenos y el resultado didáctico para mi. Quizás para los saiyajins del jotaese, fue muy básica pero para el mortal promedio fue genial para encarar la siguiente charla de Forbes.
+
+#### "Functional Javascript” con Federico Silva
+<div class="evaluacion">Forma 3, Contenido 3</div>
+Mi abuela inventó el aforismo: “Más vale pájaro en mano que cien volando” que aplica perfectamente para esta presentación. Fue buena en términos generales. Me escapa evaluar la fidelidad de cada uno de los conceptos que Federico expusó pero puedo darme la libertad de criticar que no es posible hacer un curso online de functional programming en 45’ y esperar que la atención de la audiencia llegue hasta el final<a id="n4" href="#4" class="note">(4)</a>. 
+
+Siempre hago notar que nuestra capacidad de concentración es limitada y defectuosa y es responsabilidad del orador mantenerla viva y no sobreexigirle. Fue demasiada información en poco tiempo sobre un tema novedoso para muchos. Quizás con menos conceptos, hubiese resultado mejor aún. Agradezco la charla para refrescar y reforzar conceptos que comencé aprender con [https://leanpub.com/happylambda] pero peco de exhaustiva. Hay que saber tirar algunas cosas por la borda para llegar a buen puerto.
+
+#### "Promises and Generators: control flow utopia” con Forbes Lindesay
+<div class="evaluacion">Forma 3, Contenido 5</div>
+Una de mis notas de esta charla dice: “Black Magic” que en mi universo léxico significa que este tipo la tiene muy clara. Esta presentación no era para cualquiera. Para los Imp[3] como yo, en algún momento, la charla salto a Warp 7 y para mi viejo Enterprise clase NX estaba más allá de alcanzarla pero hasta ese momento fue una sucesión de “wow… woow… wooow”. Sino fuera por la charla anterior de Promises, creo que mi cerebro se hubiese shuteado en los primeros diez minutos.
+
+#### “Backbone.js” con Jeremy Ashkenas
+<div class="evaluacion">Forma 5, Contenido 4</div>
+Este muchacho dió al mundo Coffeescript, Underscore y Backbone. No es un nene de pecho y fue una de las presentaciones más esperadas. Me encanto cuando resaltó algo tan obvio: en server-side tenés opciones, en client-side, solo Javascript. 
+
+La presentación comenzó por una especie de enumeración de principios filosóficos del buen diseño de una arquitectura front-end y derivó hacia patrones puntuales para resolver problemas usuales. Estoy convencido que la elección de las fotos en los slides tuvo un efecto particular en la audiencia. Por un lado, la curiosidad te llevaba a prestarle atención a las mismas y, por tanto, enfocarte en el principio puntual que estaba desarrollando y, por otro lado, la belleza de alguno de los paisajes resultaban relajantes. Algo fundamental dado que esta presentación cerraba el día y a esa altura la audiencia esta cansada y ansiosa. Si quieren ver las skills fotográficas del flaco, revisen su [página] (http://ashkenas.com/)
+
+#### El drinkup en Seven Bar
+
+No hay conferencia sin drinkup porque el valor para muchos de ir hasta una es hacer social networking o relajarse entre compañeros. Con lo cual, no es menor la elección del lugar de la drinkup y la calidad del mismo. Fue terrible salir de la última presentación y merendarse el diluvio que caía sobre Montevideo. Nosotros parábamos por Los Pocitos, lejos de la Torre Antel. En un día normal, no abundan los taxis por la zona y ese día, de noche, con lluvia, era imposible conseguir uno. Por suerte, los organizadores nos alcanzaron algunos hasta el hotel y otros hasta el bar.
+
+El bar era chico y estaba en subsuelo. La cerveza era buena y no escaseo pero el calor y la humedad no ayudaron así que terminamos comiendo algo al lado y volvimos para tomar algo más de buen brebaje fermentado. 
+
+ <div class="article-divider"><img class="divider-mustache" src="/images/mustachet-divider.png"/></div>
+
+### 2do día
+
+El segundo día de toda conferencia implica que la audiencia tiene resaca, durmió poco y esta más distraída por los disparadores de las presentaciones y las charlas de la drinkup del día anterior. Con lo cual, hay que arrancar con mucho café y buenas presentaciones, pero es usual que hasta el mediodía muchos ni aparezcan.
+
+#### "Tiny modules on the frontend” con James Halliday
+<div class="evaluacion">Forma 4, Contenido 3</div>
+Uno me dijo es el [Soveran](https://twitter.com/soveran) del Javascript por ser otro abogado de la filosofía de desarrollo Unix: módulos pequeños con una única función. Mostró el potencial de una variedad de pequeñas librerias cada una para un problema concreto. La más interesante, que cautivo al público, hizo música con funciones. Sinceramente, yo estaba medio quemado así que mi espectro de atención estaba al mínimo pero me encanto que cuando uno de los ejemplos fallo, no perdió tiempo, hizo un chiste al respecto y siguió con la siguiente. Hay que aplaudir que la presentación consto de una serie de demos, algo que la sabiduría popular y Tusam dicen que: “pueden fallar”, y así y todo sacando ese traspié menor (en el modulo de matemática, sin lugar a dudas, el más aburrido), salieron todos sin problemas.
+
+#### “Be MEAN” con Jean Carlos Nascimiento
+<div class="evaluacion">Forma 2, Contenido 3</div>
+Si, soy duro, lo se. No me cabe duda que Suissa es un tipo carismático con el que no me perdería una joda pero no habló ni español ni ingles y eso fue un dolor olímpico de pelotas. Me imagino a los traductores dándose la cabeza contra el borde de sus mesas. No me cabe duda que este muchacho, al cual, dicen tengo cierto parecido fisonómico, es un muy competente programador pero el idioma es una barrera y en esta oportunidad no la pudimos saltar ni con garrocha.
+
+Por otro lado, el Contenido casi cae a 2 porque adoleció de algo que mencione en otras reviews: enumerativo. El stack de Mongo, Express, Angular y Node es ultra interesante. Claramente, no se pueden explicar cuatro en 45’, pero hubiese sido genial que en vez de perder tanto tiempo en las intros de cada tecnología, nos mostrará algo que seguramente el domina: cómo integrarlos, qué patrones usar, buenas practicas, etc. A mi, al menos, me seduce más el cómo que el qué. La enumeración peca de que no nos da mucho más de lo que nos da 2’ leyendo el readme de cada una pero no nos muestra la salsa para que esos fideos estén buenos. Cualquiera que come pastas, sabe que en la salsa esta el secreto.
+
+#### "JavaScript Security: myths, fallacies and anti-patterns” con Joe Petterson
+<div class="evaluacion">Forma 3, Contenido 3</div>
+El tema “seguridad” nunca es simple. Del tonto sanea tu contenido dinámico al CSRF hay un salto para entenderlo. Confieso que el break no alcanzo para despertar el resto de las neuronas que todavía nadaban crol en cerveza, y eso no me ayudo para seguir el ritmo. Sino fuera porque las slides resumían lo que Joe decía creo que me hubiese puesto a jugar al [2048](http://gabrielecirulli.github.io/2048/) en vez de hacer el esfuerzo de seguirlo. Creo que no le saque todo el jugo a esta naranja.
+
+#### “MontageJS” con Benoit Marchant
+<div class="evaluacion">Forma 3, Contenido 3</div>
+Casi casi le doy un 4 en Forma porque lo que intento fue ambicioso pero falló, demasiadas veces y durante demasiado tiempo, lo cual se notó que dispersó la atención del público. [MontageJS](http://montagejs.org/) pinta muy interesante y Benoit logró producir eso incluso con los tropezones de la demo pero podría haber estado aún mejor. Me costó mucho captar cómo hacía lo espectacular que hacía, es decir, la mecánica de la tecnología y me espantó un poco ver un “studio”. Es cosa usual de algunos programadores de lenguajes dinámicos como Ruby, Python y JS temblar ante la presencia de un IDE o Studio. 
+
+#### "A future called Web Components” con Zeno Rocha 
+<div class="evaluacion">Forma 4, Contenido 4</div>
+Esto pinta ser el futuro aunque parece que IE y Safari todavía no se sumaron según [Are we componentized yet?](http://jonrimmer.github.io/are-we-componentized-yet/). Si quieren probar algún web component, Zeno paso [Custom Elements](http://customelements.io/), un especie de repo para centralizar todos los components. El tema es muy interesante, las slides y ejemplos fueron buenos y divertidos. Algo que siempre suma es el humor, más cuando el humor es sobre fútbol que es una pasión en común de uruguayos, argentinos y brazileros (aunque yo solo miro partidos de Starcraft). A mi me gusto y espero a [Web Components](webcomponents.org) para entender más.
+
+P.D: ¿qué pasó con las zapas de este muchacho?
+
+#### "Source Maps, how they work and why you should care” con Thorsten Lorenz
+<div class="evaluacion">Forma 2, Contenido 3</div>
+Estoy seguro que esto no les paso a todos, solo a los que como yo, se enteraron después de que se trataba Source Maps gracias a que @_joliv me lo explicó. Y aunque soy medio ezpezial, no fui el único. De algún modo, falló la introducción al tema, a Source Maps, y pasó muy rápido a los ejemplos y yo me sentí como cuando el colectivo dobla antes de lo esperado y ya no se dónde estoy. Es importante no asumir que la audiencia sabe de que se trata algo antes de pisar el acelerador. Yo vi como el auto de la alegría y la comprensión se alejaba a gran velocidad y no me pude subir.
+
+#### "Testing Sucks” con Leo Balter
+<div class="evaluacion">Forma 3, Contenido 2</div>
+Me sentí como en una retransmisión por décimo cuarta vez de “Casados con hijos”. Alguno dijo por ahí: “¿cuándo van a dejar de dar charlas sobre testing?”. A lo que pensé, que además siempre arrancan con lo mismo: lo feo que es testear y la misma perorata. La verdad, me embole con el tema desde el vamos. Quizás algunos se sorprendieron que existieran librerias de test unit para Javascript y les resulto llevadera. No fue mi caso.
+
+#### "Death to cookies, long live JSON Web Tokens” con Woloski y Romaniello
+<div class="evaluacion">Forma 2, Contenido 3</div>
+No puedo explicitar por qué no me convenció la presentación aunque el tópico era interesante pero creo, sin ofender, que los muchachos no tenían mucha pasta de oradores. Se que es duro pero intento ser sincero y admito mi falibilidad sobre este juicio. 
+
+P.D.: Todos tenemos nuestros traspiés pero es "gugul", no "guglé".
+
+#### "Distributed Applications in Node.js” con Angel “Java” Lopez
+<div class="evaluacion">Forma 2, Contenido 4</div>
+El chiste sobre su anglish es divertido. No le voy a negar a @ajlopez que me arranca una sonrisa pero si estás leyendo esto, en representación de la humanidad: no des una charla en ingles. No es lo tuyo. La serie de topologías que implementó con NodeJS no eran moco de pavo. El fractal construido con nodos distribuidos estaba genial. Pero todo lo positivo de la charla lo pierde cuando habla en su forma degenerada de ingles. Lo perdonaría si no tuviera la opción pero hay traductores que van hacer el trabajo de convertir todo lo interesante de su presentación a un inglés standard y todos salimos ganando: él, la audiencia, los traductores y el idioma.
+
+P.D: che, activa el Windows, hay buenos cracks en Taringa!
+
+#### "Why Bacon is actually good for your health” con Gianazza y Crespo
+<div class="evaluacion">Forma 4, Contenido 4</div>
+Hacer un dueto requiere cierta coordinación para que ninguno de los dos presentadores quede opacado. Creo que lograron distribuir la tarea aprovechando el fuerte de cada uno. La calidad de los slides estuvo entre las mejores que se vieron en la conferencia. @sgianazza estaba más distendido que @leogcrespo, lo cual es lógico porque Sergio es founder de [Ideas Ágiles](http://www.ideasagiles.com/) y da cursos y talleres regularmente.  Eso se notó, pero creo que Leonardo “Backbone” Crespo lo hizo muy bien.
+
+La incorporación del video del "código mientras se escribe" fue positivo. El video ayudaba atraer la atención de la audiencia y evitar un shutdown cognitivo al exponer todo el código de una. Pero también agotaba visualmente seguir el código. Suena como un trade off. Se me ocurre como alternativa: mostrar todo el código de una pero ir resaltando las sentencias en la medida que las van explicando.
+
+Cuando voy a una conferencia siempre espero aparezca un groso, un loco, un visionario y me enseñe algo de lo que ni sabía que existía o era posible. En este caso, lo lograron al introducirme a Functional Reactive Programming y rascar, al menos, la superficie conceptual del tema. Mi critica es que al mostrar la integración con Backbone y Angular se volvió tedioso. Creo que hubiese sido preferible concentrar la artillería en el ejemplo de Backbone y solo mencionar la integración posible con Angular. Una pena que el ejemplo del Timer fallará.
+
+P.D.: Es panceta. Tocino si vivís en México.
+
+#### "A merger of the Browser and Operating System” con Nick Desaulniers
+<div class="evaluacion">Forma 4, Contenido 4</div>
+
+La idea que Javascript es el futuro tomó cuerpo en algunas de las presentaciones. Esta, sin duda, fue una de ellas. Es un paso interesante en la eterna lucha cósmica entre Nativo o Web en el mundo mobile desarrollar las apps con HTML, CSS y Javascript de una. Ojala Firefox OS se vuelve un competidor de primera en el mercado acaparado por Android y iOS.
+
+#### “The Better Parts” con la estrella de la conferencia Douglas Crockford
+<div class="evaluacion">Forma 5, Contenido 5</div>
+
+Douglas no parece caracterizarse por sus impulsos sociales. Se pasó buena parte de la Conf en los balcones laterales del auditorio, lejos del alcance de la horda de nerds fanáticos, que queríamos atosigarlo con preguntas y fotos. Iba armado con una Dell Alienware y se corre el rumor que estuvo matando zombies en el L4D2 bajo el nick: xxEval_Is_Evilxx.
+
+La presentación fue muy divertida, esclarecedora y no le faltó algo de rant. No quiero arruinar la magia de la misma spoileando partes a los que no la vieron, esperen a que los organizadores la suban para ver a qué me refiero. Tocó un poco de todo pero lo más interesante fue ver su visión del Lenguaje del Futuro y que Javascript no es el último lenguaje ni JSON la última forma de representar datos. Hay que admitir que para alguien que aparentaba ser reacio a socializar, logró cautivar a la audiencia con una buena dosis de humor y cerró la conferencia sin decepción y un fuerte aplauso.
+
+P.D.: lo que tenía puesto ¿era una levita?
+
+#### Drinkup en las nubes
+
+Antes de que comenzara la presentación de Crockford, se anunció lo que ya se sabía: la drinkup sería en el piso 26 de la torre contigua al auditorio. El detalle fue que había dos ascensores. Apenas concluyeron los aplausos, escape velozmente y con @rafaelchiti, @pola y @kadorrna esquivamos a los desprevenidos programadores para llegar lo antes posible a los ascensores. Con @rafaelchiti y la asistencia técnica de @kadorrna, desarrollamos un paper que concluía que el ETA para que todos subieran al bar en el piso 26 era de 78’ en el único ascensor disponible porque, al final, solo había uno. 
+
+Ni lentos ni perezosos, estuvimos entre los primeros en llegar a un paraíso de Corona, Smirnoff con limón y comida para tirar al techo. Cuando llego el resto de la tropa, habíamos comido y tomado como vikingos. No conformes con eso, después seguimos en el Irish Pub Gallagher con gente que se sumo en un especie de after drinkup.
+
+Al día siguiente, 4.30 AM estábamos levantados, pero no despiertos, para volver a Buenos Aires, de nuevo, por Colonia Express<a id="n5" href="#5" class="note">(5)</a><a id="n6" href="#6" class="note">(6)</a>  . Un agradecimiento especial a [La Bove Otero](https://twitter.com/Ger_O) y sus lumpa lumpas por organizar un viaje de doce personas y [SCV Soft](http://www.scvsoft.com/) por bancar la joda.
+
+<div class="article-divider"><img class="divider-mustache" src="/images/mustachet-divider.png"/></div>
+
+### The End con conclusión
+
+No es mi primer conferencia pero espero al salir de cada una, haber aprendido algo, haber comido y bebido como un vikingo (si, es un requisito para mi la nutrición e hidratación) y entusiasmado por codear con alguna de todas las cosas que vi o escuche. Se que para muchos, el social networking es un atractivo fundamental, pero yo soy del club de Crockford.
+
+Esta conf logró todo ¡incluso hable con desconocidos! Salí muy entusiasmado, convencido de que es realmente necesario dominar Javascript para ser parte de la ola que rompe en las playas del Futuro. La calidad de las presentaciones fue entre buena y excelente. La comida fue muy buena. La drinkup en las nubes redimió un poco el mal clima de la primera dejando un saldo a favor en esta área. Y los organizadores son tipos muy copados. No tenían la típica arrogancia que vi en otras oportunidades e hicieron lo impensado: alcanzarnos hasta al hotel en medio de la tormenta que cerro el primer día. Esas cosas en el barrio no se olvidan.
+
+Espero se repita el año que viene y mantenga el nivel.
+
+**Notas menores:**
+
+<a id="1" href="#n1">1</a>. @marianozabal la paso mal en el gomón, no recupero el color hasta desembarcar.
+
+<a id="1" href="#n2">2</a>. Otra palabra que asombró esa noche fue [meretriz](http://www.wordreference.com/definicion/meretriz) que es del castellano universal y fue la palabra abanderada del viaje.
+
+<a id="1" href="#n3">3</a>. La combinación hombre y desarrollador es un tiro en la nuca de la estética. Uno de los mejores que vi en mi vida fue con [Self-improvement for pros by Florian Gilcher](http://vimeo.com/album/2344729/video/63288024).
+
+<a id="1" href="#n4">4</a>. Sniff-attention es una idea que se me ocurrió durante la conf. Sniffear los paquetes de la wifi y evaluar la atención del publico como inversamente proporcional al tráfico. Cuando una presentación se ponía aburrida o el orador estaba peleando cuerpo a cuerpo con la demo o el slide, automáticamente, la gente comenzaba a revisar el twitter, codear, navegar, etc.
+
+<a id="1" href="#n5">5</a>. @rafaelchiti decidió que no iba a comerse la banana que lo siguió durante toda la conferencia y la devolvió al hostel.
+
+<a id="1" href="#n6">6</a>. Durante el viaje pude redimirme de la fama fraguada por malas lenguas de no conocer las señas del truco al vencer en sucesivos pica-pica a @sgianazza, quién afirma haber sido entrenado por gauchos pampeanos aunque gusta jugar con flor, conocida infracción a la virilidad gauchesca.
+
