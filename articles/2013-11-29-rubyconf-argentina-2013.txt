@@ -8,7 +8,6 @@ description: Organización, oradores, lugar y otras frutas sobre la RubyConfAr20
 
 El martes 26 de Noviembre comenzó la tercer instancia de [RubyConf Argentina](http://rubyconfargentina.org/es/) con un Ruby Fun Day, una serie de talleres para aprender y conocer más sobre Ruby. Pero el evento principal fue los días 27 y 28 en el Konex. 
 
-
 Argentina es uno de los pocos países de Latinoamérica con una comunidad suficientemente activa para dedicar el esfuerzo de armar un evento de esta magnitud, con éxito, en tres oportunidades. Junto con Uruguay y, según me advirtieron, Brazil con su propia RubyConf y Chile con la Startech Conf, a la que tengo muchas ganas de ir. Aunque hay diversas conferencias sobre IT a lo largo del año, son pocas las comunidades de un lenguaje que logran eventos como éste. Las más recientes son la PHPConf y la JSConf aunque esta fue hace más de un año y en 2013, lamentablemente, no se repitió. Pero al margen de esta importante valoración, no puedo privarme de hacer el ejercicio critico habitual sobre la conferencia.
 
 #### Lugar: Konex
