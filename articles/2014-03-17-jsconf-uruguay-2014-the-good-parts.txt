@@ -116,7 +116,7 @@ Me sentí como en una retransmisión por décimo cuarta vez de “Casados con hi
 
 #### "Death to cookies, long live JSON Web Tokens” con Woloski y Romaniello
 <div class="evaluacion">Forma 2, Contenido 3</div>
-No puedo explicitar por qué no me convenció la presentación aunque el tópico era interesante pero creo, sin ofender, que los muchachos no tenían mucha pasta de oradores. Se que es duro pero intento ser sincero y admito mi falabilidad sobre este juicio. 
+No puedo explicitar por qué no me convenció la presentación aunque el tópico era interesante pero creo, sin ofender, que los muchachos no tenían mucha pasta de oradores. Se que es duro pero intento ser sincero y admito mi falibilidad sobre este juicio. 
 
 P.D.: Todos tenemos nuestros traspiés pero es "gugul", no "guglé".
 
@@ -156,7 +156,7 @@ Antes de que comenzara la presentación de Crockford, se anunció lo que ya se s
 
 Ni lentos ni perezosos, estuvimos entre los primeros en llegar a un paraíso de Corona, Smirnoff con limón y comida para tirar al techo. Cuando llego el resto de la tropa, habíamos comido y tomado como vikingos. No conformes con eso, después seguimos en el Irish Pub Gallagher con gente que se sumo en un especie de after drinkup.
 
-Al día siguiente, 4.30 AM estábamos levantados, pero no despiertos, para volver a Buenos Aires, de nuevo, por Colonia Express<a id="n5" href="#5" class="note">(5)</a><a id="n6" href="#6" class="note">(6)</a>  . Un agradecimiento especial a [La Bove Otero](https://twitter.com/Ger_O) y sus lumpa lumpas por organizar un viaje de doce personas y a [SCV Soft](http://www.scvsoft.com/) por bancar la joda.
+Al día siguiente, 4.30 AM estábamos levantados, pero no despiertos, para volver a Buenos Aires, de nuevo, por Colonia Express<a id="n5" href="#5" class="note">(5)</a><a id="n6" href="#6" class="note">(6)</a>  . Un agradecimiento especial a [La Bobe Otero](https://twitter.com/Ger_O) y sus umpa lumpas por organizar un viaje de doce personas y a [SCV Soft](http://www.scvsoft.com/) por bancar la joda.
 
 <div class="article-divider"><img class="divider-mustache" src="/images/mustachet-divider.png"/></div>
 
