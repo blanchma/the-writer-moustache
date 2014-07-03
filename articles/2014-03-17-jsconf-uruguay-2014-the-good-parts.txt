@@ -20,6 +20,7 @@ El auditorio fue el mismo que la última RubyConf Uruguay: [la Torre Antel](http
 
 ### El Morfi a.k.a. el catering
 
+
 El catering del evento fue muy bueno aunque tuvo algunos problemas menores. El almuerzo del segundo día casi desencadenó una lucha masiva por un brochet. La comida debería haber estado dispuesta sobre las mesas desde el vamos. Cualquiera que fue a uno de estos eventos sabe que el segundo día, la audiencia está desesperada por apagar la resaca del día anterior y la cantidad de comida ingerida es 134% más que el primer día. Las bandejas salían demasiado despacio desde el buffet. Todavía tenía hambre cuando se acabó lo salado y pasamos a lo dulce. ¡Lo dulce! Algo que no faltó, sobró, cansó, fue lo dulce. Se me podrá culpar de subjetivo pero el hecho que lo dulce permaneciera en las mesas durante toda la tarde y disminuyera muy lentamente fue un signo indiscutible que la gente no quería más azúcar. Queríamos algo más tangible. Aún con estos detalles, el catering fue bueno.
 
 <div class="article-divider"><img class="divider-mustache" src="/images/mustachet-divider.png"/></div>
@@ -72,7 +73,8 @@ Este muchacho dió al mundo Coffeescript, Underscore y Backbone. No es un nene d
 
 #### El drinkup en Seven Bar
 
-No hay conferencia sin drinkup porque el valor para muchos de ir hasta una es hacer social networking o relajarse entre compañeros. Con lo cual, no es menor la elección del lugar de la drinkup y la calidad del mismo. Fue terrible salir de la última presentación y merendarse el diluvio que caía sobre Montevideo. Nosotros parábamos por Los Pocitos, lejos de la Torre Antel. En un día normal, no abundan los taxis por la zona y ese día, de noche, con lluvia, era imposible conseguir uno. Por suerte, los organizadores nos alcanzaron algunos hasta el hotel y otros hasta el bar.
+
+No hay conferencia sin drink up porque el valor para muchos de ir hasta una es hacer social networking o relajarse entre compañeros. Con lo cual, no es menor la elección del lugar de la drink up y la calidad del mismo. Fue terrible salir de la última presentación y merendarse el diluvio que caía sobre Montevideo. Nosotros parábamos por Los Pocitos, lejos de la Torre Antel. En un día normal, no abundan los taxis por la zona y ese día, de noche, con lluvia, era imposible conseguir uno. Por suerte, los organizadores nos alcanzaron algunos hasta el hotel y otros hasta el bar.
 
 El bar era chico y estaba en subsuelo. La cerveza era buena y no escaseó pero el calor y la humedad no ayudaron así que terminamos comiendo algo al lado y volvimos para tomar algo más de buen brebaje fermentado. 
 
@@ -94,7 +96,9 @@ Por otro lado, el Contenido casi cae a 2 porque adoleció de algo que mencione e
 
 #### "JavaScript Security: myths, fallacies and anti-patterns” con Joe Petterson
 <div class="evaluacion">Forma 3, Contenido 3</div>
-El tema “seguridad” nunca es simple pero fue mucho comenzar un recorrido desde el básico "escapear" el contenido dinámico hasta llegar al esotérico CSRF. Confieso que el break no alcanzo para despertar el resto de las neuronas que todavía nadaban crol en cerveza, y eso no me ayudó para seguir el ritmo. Sino fuera porque las slides resumían lo que Joe decía creo que me hubiese puesto a jugar al [2048](http://gabrielecirulli.github.io/2048/) en vez de hacer el esfuerzo de seguirlo. Creo que no le saqué todo el jugo a esta naranja.
+
+El tema “seguridad” nunca es simple pero fue mucho comenzar un recorrido desde el básico "escapear" el contenido dinámico hasta llegar al esotérico CSRF. Confieso que el break no alcanzo para despertar el resto de las neuronas que todavía nadaban crol en cerveza, y eso no me ayudo para seguir el ritmo. Sino fuera porque las slides resumian lo que Joe decía creo que me hubiese puesto a jugar al [2048](http://gabrielecirulli.github.io/2048/) en vez de hacer el esfuerzo de seguirlo. Creo que no le saqué todo el jugo a esta naranja.
+
 
 #### “MontageJS” con Benoit Marchant
 <div class="evaluacion">Forma 3, Contenido 3</div>
@@ -116,7 +120,8 @@ Me sentí como en una retransmisión por décimo cuarta vez de “Casados con hi
 
 #### "Death to cookies, long live JSON Web Tokens” con Woloski y Romaniello
 <div class="evaluacion">Forma 2, Contenido 3</div>
-No puedo explicitar por qué no me convenció la presentación aunque el tópico era interesante pero creo, sin ofender, que los muchachos no tenían mucha pasta de oradores. Se que es duro pero intento ser sincero y admito mi falibilidad sobre este juicio. 
+
+No puedo explicitar por qué no me convenció la presentación aunque el tópico era interesante pero creo, sin ofender, que los muchachos no tenían mucha pasta de oradores. Se que es duro pero intento ser sincero y admito mi falabilidad sobre este juicio. 
 
 P.D.: Todos tenemos nuestros traspiés pero es "gugul", no "guglé".
 
@@ -156,7 +161,7 @@ Antes de que comenzara la presentación de Crockford, se anunció lo que ya se s
 
 Ni lentos ni perezosos, estuvimos entre los primeros en llegar a un paraíso de Corona, Smirnoff con limón y comida para tirar al techo. Cuando llego el resto de la tropa, habíamos comido y tomado como vikingos. No conformes con eso, después seguimos en el Irish Pub Gallagher con gente que se sumo en un especie de after drinkup.
 
-Al día siguiente, 4.30 AM estábamos levantados, pero no despiertos, para volver a Buenos Aires, de nuevo, por Colonia Express<a id="n5" href="#5" class="note">(5)</a><a id="n6" href="#6" class="note">(6)</a>  . Un agradecimiento especial a [La Bobe Otero](https://twitter.com/Ger_O) y sus umpa lumpas por organizar un viaje de doce personas y a [SCV Soft](http://www.scvsoft.com/) por bancar la joda.
+Al día siguiente, 4.30 AM estábamos levantados, pero no despiertos, para volver a Buenos Aires, de nuevo, por Colonia Express<a id="n5" href="#5" class="note">(5)</a><a id="n6" href="#6" class="note">(6)</a>  . Un agradecimiento especial a [La Bove Otero](https://twitter.com/Ger_O) y sus lumpa lumpas por organizar un viaje de doce personas y a [SCV Soft](http://www.scvsoft.com/) por bancar la joda.
 
 <div class="article-divider"><img class="divider-mustache" src="/images/mustachet-divider.png"/></div>
 
@@ -164,7 +169,7 @@ Al día siguiente, 4.30 AM estábamos levantados, pero no despiertos, para volve
 
 No es mi primer conferencia pero espero al salir de cada una, haber aprendido algo, haber comido y bebido como un vikingo (si, es un requisito para mi la nutrición e hidratación) y estar entusiasmado por codear con alguna de todas las cosas que vi o escuche. Se que para muchos, el social networking es un atractivo fundamental, pero yo soy del club de Crockford.
 
-Esta conf logró todo ¡incluso hablé con desconocidos! Salí muy entusiasmado, convencido de que es realmente necesario dominar Javascript para ser parte de la ola que rompe en las playas del Futuro. La calidad de las presentaciones fue entre buena y excelente. La comida fue muy buena. La drinkup en las nubes redimió un poco el mal clima de la primera dejando un saldo a favor en esta área. Y los organizadores son tipos muy copados. No tenían la tipica arrogancia que vi en otras oportunidades e hicieron lo impensado: alcanzarnos hasta al hotel en medio de la tormenta que cerró el primer día. Esas cosas en el barrio no se olvidan.
+Esta conf logró todo ¡incluso hablé con desconocidos! Salí muy entusiasmado, convencido de que es realmente necesario dominar Javascript para ser parte de la ola que rompe en las playas del Futuro. La calidad de las presentaciones fue entre buena y excelente. La comida fue muy buena. La drinkup en las nubes redimió un poco el mal clima de la primera dejando un saldo a favor en esta área. Y los organizadores son tipos muy copados. No tenían la tipica arrogancia que vi en otras oportunidades e hicieron lo impensado: alcanzarnos hasta al hotel en medio de la tormenta que cerro el primer día. Esas cosas en el barrio no se olvidan.
 
 Espero se repita el año que viene y mantenga el nivel.
 
