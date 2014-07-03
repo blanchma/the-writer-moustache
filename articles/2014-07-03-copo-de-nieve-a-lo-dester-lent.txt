@@ -1,0 +1,82 @@
+---
+title: ! 'Copo de Nieve a lo Dester Lent'
+category: roleplay
+date: 03/07/2014
+description: Como escribir una partida para juegos de rol
+
+
+Uno de mis primeros artículos sobre juegos de rol cuando era un púber,  fue sobre la posibilidad que la Narración fuera más que un arte, tuviera una técnica detrás. Nunca me abandono la idea que una buena historia no puede ser totalmente improvisada y que una buena historia tampoco es pura creatividad regalada en un momento de inspiración espontáneo y sublime sino un proceso, más o menos arduo.
+ 
+Cuando termino de ver una película, un libro o un comic me pregunto por la trama para encontrar aquellos elementos que le dieron forma: actos, escenas, personajes, lugares. ¿Qué motivo a los personajes? ¿Cuál es el conflicto? ¿Cuáles son los obstáculos? Estoy convencido que toda historia, lo quiera o no el autor, responde en parte a estos elementos. Sin conflicto, sin obstáculos, sin personajes motivados, no hay una historia.
+ 
+Recientemente me cruce con un método para confeccionar novelas denominado “Copo de Nieve” de Randy Ingermanson quién lo publicita en su web [Advanced Fiction Writing](http://www.advancedfictionwriting.com/). El método parece muy elaborado para escribir un modulo o partida (¿cuál sería la forma apropiada de denominar una historia para juegos de rol? Tópico para otro día) y, por eso, lo simplifique pero mientras trabajaba en eso recordé el clásico artículo de [Dexter Lent](http://www.relatospulp.com/foro/13-cosas-de-escritores/395-el-argumento-maestro-para-escribir-relatos-pulp.html)
+ y el resultado es lo que viene a continuación.
+ 
+<br/> 
+#### Paso 1
+Escribimos la idea de la partida en una oración o frase muy corta, un “tagline”. Esta oración es la síntesis y esencia de toda la partida. Es la razón por la que comprarían nuestra idea. No debería tener más de quince palabras. No utilices nombres (los nombres propios bloquean las ideas… ¿quién dice que el hechicero malvado será Morgoth y no que luego se te ocurra que sea un nuevo villano?). Resumir una historia en una línea es más difícil de lo que parece pero nos libera de pensar más allá de la idea básica.
+
+<br/> 
+#### Paso 2
+Es momento de la primer expansión a un par de párrafos. Mi recomendación es que lo mantengas dentro de la hoja y dediques un párrafo a cada acontecimiento principal incluyendo la introducción y el desenlace. Si usas una estructura típica de tres actos: introducción, nudo y desenlace, quizás puedas concluir el resumen en tres párrafos. Si estas pensando en una estructura más larga, agrega más párrafos pero mantente dentro del límite de un párrafo por evento.
+ 
+Una recomendación en este punto es imaginar la partida como una serie de imágenes. Ejemplo: fiesta, desaparición, búsqueda, cueva, orcos, tesoro, etc. Y dejar la verbalización detallada y lógica para más adelante.
+ 
+<br/> 
+#### Paso 3
+Hora de infundirle los primeros rasgos de vida a la partida: personajes y lugares. Claro que acá depende de si tu partida tiene personajes y lugares. Quizás los lugares son absolutamente intrascendentes y la partida ocurra toda en un castillo deshabitado (dungeon crawler) pero probablemente para esos casos este método no tenga sentido.
+ 
+Dependiendo de la importancia del personaje, dedica un párrafo a las siguientes preguntas: ¿cuál es su pasado? (historia), ¿qué mueve al personaje? (motivación), ¿qué busca en concreto? (objetivo), ¿qué le impide lograrlo? (conflicto) y ¿cómo actuara y reaccionara durante la historia? (actitud y dinámica). No todos los personajes se merecen el mismo nivel de detalle, quizás para algunos alcance con un par de palabras, otros requieran unas líneas y un solo toda una historia de un párrafo o más.
+ 
+El énfasis en enfocar a los personajes depende del énfasis de los personajes en la historia. Pero desarrollar los personajes te puede ayudar a revelar más sobre tu propia historia. La intención de este ejercicio es enfocar la creatividad paso a paso. Rara vez una historia tiene sentido sin personajes. El mundo sería un lugar vacío y pacífico sino hubiese personas con sus problemas, sus miedos y sus ambiciones.
+ 
+Luego, un ejercicio similar con los lugares claves: ¿cómo es el lugar? ¿dónde esta ubicado? ¿quiénes están allí? ¿por qué los personajes pasarían por allí y qué deberían hacer? Acá la intención es la misma. Enfocar el esfuerzo en puntos claves de la historia para descubrir más aspectos que inicialmente no pensamos. Puede que el lugar sea intrascendente para la historia pero piensa en todos los lugares increíbles para emplazar una historia que le da todo un tono a la historia: pelear en un zeppelín, correr por los tejados de Florencia, escapar por una alcantarilla un día de tormenta...
+ 
+<br/> 
+#### Paso 4
+Ahora es tiempo de llevar la historia un paso más allá y extender cada uno de los párrafos a varios párrafos. Es importante considerar que una historia para atrapar y mantener a los personajes tiene que tener conflictos. Ya sea la estructura clásica en tres actos, o una más larga como la de Lester Dent. Es un buen principio concluir cada parte con un conflicto. En  una partida, los conflictos involucran a los personajes con la historia y el mundo. No cometas el error de intentar contarles un cuento porque los jugadores eventualmente se aburren. Sino se aburrieron, tenés talento para escribir cuentos y novelas.
+ 
+Nunca es suficiente el énfasis en este aspecto: una partida esta hecha de desafíos y conflictos, no uno, o dos, sino varios, con diferentes intensidades, riesgos y recompensas. No reduzcas cada conflicto a una tirada simple. Pon algunas consecuencias en evidencia y otras ocúltalas para que exploten luego. Incluir conflictos, significa, incluir consecuencias inmediatas y mediatas. Es lo que hace que los jugadores sientan su presencia en el mundo y la trama.
+ 
+Otra recomendación importante es el develamiento: que sea gradual. La partida tiene que comenzar con un conflicto pero también tienen que incluir algo misterioso, no necesariamente en sentido estricto como una historia de detectives, sino con una incógnita que genere curiosidad a los jugadores. En cada escena, la incógnita puede ser parcialmente o totalmente resuelta, pero entonces, una nueva incógnita debería surgir. Incluso es una excelente manera de enganchar una partida con la siguiente: dejar algo en el tintero.
+ 
+<br/> 
+#### Paso 5 (opcional)
+Dependiendo de si nuestra intención es publicar la partida, o te da más confianza tener la historia al detalle, entonces en este paso es momento de definir la partida escena por escena, lugar por lugar, personaje por personaje. Esto significa que deberías dedicar unos cuantos párrafos más a aquellos hitos que en el paso 4 todavía quedaron resumidos a un párrafo u oración. Un modulo para publicar incluiría algunas descripciones resaltadas, porciones de diálogos que se obtendrían en un cotilleo, detalles de color sobre los lugares o los personajes, etc.
+ 
+<br/> 
+#### Paso 6
+Hasta este punto, no deberíamos incluir ningún dato técnico de tu sistema en particular. Debemos mantener todo en la vaguedad pero ahora es momento de comenzar a definir características, encuentros, tesoros y desafíos puntuales según el reglamento elegido. Los detalles técnicos apelan a un pensamiento más vertical e interfieren con la creatividad.
+
+Algunas recomendaciones adicionales: la creatividad funciona mejor iterativamente, no es necesario concluir toda la partida de un tirón. Podes darte un tiempo entre cada paso. Si acaso la terminas toda en una sentada, podés volver hacerlo desde cero con las mismas ideas pero sin el texto original. Si volvemos al texto original, vamos a condicionar nuestra creatividad. Esto es un ejercicio habitual de escritura creativa, desarrollas un primer borrador en un tiempo límite, “descartas” el borrador y volvés a empezar de cero.
+
+<br/>
+#### A lo Dester Lent
+ 
+Si no conocen la Formula Maestra de Lester Dent, les recomiendo le echen una leída (ver en los links adjuntos), pero mi adaptación de sus recomendaciones al diseño de módulos modifica un poco sus ideas para que se adapten a las particularidades propias de nuestro oficio.
+ 
+Dent propone que una historia de 6000 palabras sea dividida en 4 secciones de 1500 palabras. Para nuestro caso donde la cantidad de palabras no es lo determinante, me quedo con la idea de estructurar la historia en cuatro actos.
+ 
+En el primer acto, presentamos a los personajes y el primer conflicto (a lo que yo agregaría con su incógnita). El escritor también propone que todos los personajes que participaran de la historia sean presentados de inmediato. Es interesante mantener las presentaciones para la primer parte de la partida pero no estoy totalmente convencido que sea aplicable siempre. Pero coincido plenamente que este acto tiene que terminar con el primer conflicto importante, del cual, Dent propone surja un giro sorprendente en la historia (la primer respuesta a la incógnita). Lo importante es que este conflicto resulte en una respuesta, una consecuencia que los mueva a seguir avanzando. No debe ser una victoria ni derrota absoluta, pero los personajes deben ser conscientes que hay algo más.
+ 
+El resto de los actos hasta el cuarto repiten esta estructura cíclica de conflicto, enfrentamientos, misterios y soluciones o victorias parciales. En el cuarto acto, resolvemos la historia con el conflicto final, la victoria o derrota absoluta. El escritor de pulp resalta la importancia que haya cierta lógica en la trama, sorpresas, giros y suspense. No dejes que los personajes puedan descubrir todo el misterio, sepan todo desde el principio. Ejemplo: “vamos hasta la fortaleza orca y lo derrotamos y san se acabo… pero cuando llegan la fortaleza fue invadida y los orcos fueron asesinados por no-muertos… entran igual para rescatar a los prisioneros si todavía están con vida… lo logran pero falta el sacerdote del pueblo… que resulta ser el nigromante”.
+ 
+Quizás no la mejor historia pero muestra el punto. Preparar historias no es muy distinto de escribir cuentos o novelas, solo que, por un lado, es más fácil porque no tenemos que escribir todo dado que los personajes son los encargados de darle vida a la historia, aunque, por otro lado, nuestra historia no puede estar tallada en piedra porque los personajes son los que le dan vida.
+
+<br/>
+#### El Quid
+ 
+No quiero alargarlo más pero creo que el problema de muchos narradores es **la interacción jugadores e historia**. Siempre parto de la premisa que un juego de rol es un juego cooperativo, no solo entre los jugadores, sino entre los jugadores y el Narrador, aún cuando entre los personajes pueda haber diferencias que resulten en un combate letal siempre es en beneficio de una buena historia, de una buena interpretación y de la diversión de todos. Lo mismo aplica para la relación entre el Narrador y los jugadores. Es responsabilidad de ambos que la partida sea una buena historia, el Narrador no tiene el único deber de lanzarles monstruos y problemas sino de darles una motivación, involucrar a los personajes en el mundo y los jugadores de estar dispuestos a cooperar con el Narrador. Si se dedican a maltratar a los otros jugadores y el Narrador, no es un buen jugador y no debería continuar. Sin la buena predisposición de los jugadores, la partida nunca va a tener éxito. Narrar es lograr coser a los personajes a la trama flexible y original. El resultado es un tapiz donde las acciones motivadas de los jugadores sean parte de la historia.
+ 
+<br/>
+##### Fuentes:
+ 
+[The Lester Dent Pulp Paper Master Fiction Plot](http://www.paper-dragon.com/1939/dent.html)
+
+[El argumento maestro para escribir relatos pulp de Lester Dent
+](http://www.relatospulp.com/foro/13-cosas-de-escritores/395-el-argumento-maestro-para-escribir-relatos-pulp.html)
+
+[Método del copo de nieve](http://www.sombrasyceniza.com/planificacion-literaria-metodo-snowflake-novela/)
+
+[How to Write a Book in Three Days](http://www.ghostwoods.com/2010/05/how-to-write-a-book-in-three-days-1210/) de Michael Moorcock
+ 
