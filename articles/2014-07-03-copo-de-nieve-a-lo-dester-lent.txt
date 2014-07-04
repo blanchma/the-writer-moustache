@@ -64,6 +64,14 @@ El resto de los actos hasta el cuarto repiten esta estructura cíclica de confli
 Quizás no la mejor historia pero muestra el punto. Preparar historias no es muy distinto de escribir cuentos o novelas, solo que, por un lado, es más fácil porque no tenemos que escribir todo dado que los personajes son los encargados de darle vida a la historia, aunque, por otro lado, nuestra historia no puede estar tallada en piedra porque los personajes son los que le dan vida.
 
 <br/>
+#### La regla de las tres pistas
+Una técnica para tener en cuenta es la [Regla de las Tres Pistas de Justin Alexander](http://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule). En una historia de misterio o investigación, para que los jugadores tomen una o alguna de las decisiones correctas que mantendrían la partida en movimiento suele ser necesario que descubran algo. El error habitual es esconder esta información detrás de una muralla de pruebas y deducciones complejas. El Narrador suele sentirse orgulloso de su criatura y se reserva al máximo la información para que los jugadores las descubran por sí mismos. El problema ocurre cuando no obtienen esta información vital, quedan atrapados en un cuello de botella, porque el misterio no estaba tan bien planteado, los jugadores se confundieron o nunca lograron la tirada de Buscar o Saber.
+
+La solución que propone Justin Alexander es colocar más de una pista que lleve a la misma conclusión. Incluso de ser necesario, colocar pistas pro-activas, pistas que “atacan” o caen sobre los personajes de modo que no las puedan ignorar. Esta opción puede ser una solución de emergencia cuando los personajes estan muy desorientados.
+
+La regla de las tres pistas se puede interpretar como una regla de los tres caminos. Es decir, preparar el escenario para que soporte que el modo de llegar de una escena a la otra tenga más de una opción. Quizás cada opción tenga sus propias consecuencias. Por lo general, una parte importante de esto queda librado a la improvisación del Narrador pero la experiencia diaria de muchos demuestra que la improvisación no es para todos porque siempre es tan fácil sacar una solución de la galera. Mi recomendación es identificar los cuellos de botella de la partida y remplazarlos por tres caminos o pistas durante el diseño de la misma.
+
+<br/>
 #### El Quid
  
 No quiero alargarlo más pero creo que el problema de muchos narradores es **la interacción jugadores e historia**. Siempre parto de la premisa que un juego de rol es un juego cooperativo, no solo entre los jugadores, sino entre los jugadores y el Narrador, aún cuando entre los personajes pueda haber diferencias que resulten en un combate letal siempre es en beneficio de una buena historia, de una buena interpretación y de la diversión de todos. Lo mismo aplica para la relación entre el Narrador y los jugadores. Es responsabilidad de ambos que la partida sea una buena historia, el Narrador no tiene el único deber de lanzarles monstruos y problemas sino de darles una motivación, involucrar a los personajes en el mundo y los jugadores de estar dispuestos a cooperar con el Narrador. Si se dedican a maltratar a los otros jugadores y el Narrador, no es un buen jugador y no debería continuar. Sin la buena predisposición de los jugadores, la partida nunca va a tener éxito. Narrar es lograr coser a los personajes a la trama flexible y original. El resultado es un tapiz donde las acciones motivadas de los jugadores sean parte de la historia.
@@ -79,4 +87,4 @@ No quiero alargarlo más pero creo que el problema de muchos narradores es **la 
 [Método del copo de nieve](http://www.sombrasyceniza.com/planificacion-literaria-metodo-snowflake-novela/)
 
 [How to Write a Book in Three Days](http://www.ghostwoods.com/2010/05/how-to-write-a-book-in-three-days-1210/) de Michael Moorcock
- 
+[Three Clue Rule](http://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule)
