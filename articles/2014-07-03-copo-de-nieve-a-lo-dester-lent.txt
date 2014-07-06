@@ -36,7 +36,7 @@ Luego, un ejercicio similar con los lugares claves: ¿cómo es el lugar? ¿dónd
 #### Paso 4
 Ahora es tiempo de llevar la historia un paso más allá y extender cada uno de los párrafos a varios párrafos. Es importante considerar que una historia para atrapar y mantener a los personajes tiene que tener conflictos. Ya sea la estructura clásica en tres actos, o una más larga como la de Lester Dent. Es un buen principio concluir cada parte con un conflicto. En  una partida, los conflictos involucran a los personajes con la historia y el mundo. No cometas el error de intentar contarles un cuento porque los jugadores eventualmente se aburren. Sino se aburrieron, tenés talento para escribir cuentos y novelas.
  
-Nunca es suficiente el énfasis en este aspecto: una partida esta hecha de desafíos y conflictos, no uno, o dos, sino varios, con diferentes intensidades, riesgos y recompensas. No reduzcas cada conflicto a una tirada simple. Pon algunas consecuencias en evidencia y otras ocúltalas para que exploten luego. Incluir conflictos, significa, incluir consecuencias inmediatas y mediatas. Es lo que hace que los jugadores sientan su presencia en el mundo y la trama.
+Nunca es suficiente el énfasis en este aspecto: una partida esta hecha de desafíos y conflictos, no uno, o dos, sino varios, con diferentes intensidades, riesgos y recompensas. No reduzcas cada conflicto a una tirada simple. Deja algunas consecuencias evidentes y otras ocúltalas para que exploten luego. Incluir conflictos, significa, incluir consecuencias inmediatas y mediatas. Es lo que hace que los jugadores sientan su presencia en el mundo y la trama.
  
 Otra recomendación importante es el develamiento: que sea gradual. La partida tiene que comenzar con un conflicto pero también tienen que incluir algo misterioso, no necesariamente en sentido estricto como una historia de detectives, sino con una incógnita que genere curiosidad a los jugadores. En cada escena, la incógnita puede ser parcialmente o totalmente resuelta, pero entonces, una nueva incógnita debería surgir. Incluso es una excelente manera de enganchar una partida con la siguiente: dejar algo en el tintero.
  
@@ -87,4 +87,5 @@ No quiero alargarlo más pero creo que el problema de muchos narradores es **la 
 [Método del copo de nieve](http://www.sombrasyceniza.com/planificacion-literaria-metodo-snowflake-novela/)
 
 [How to Write a Book in Three Days](http://www.ghostwoods.com/2010/05/how-to-write-a-book-in-three-days-1210/) de Michael Moorcock
+
 [Three Clue Rule](http://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule)
