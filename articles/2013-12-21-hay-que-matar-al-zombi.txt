@@ -4,8 +4,6 @@ category: philosophy
 date: 21/12/2013
 description: Sobre el Otro y lo Otro en el género Zombi
 
-<link rel="image_src" href="/images/store/chosen.jpg" />
-
 En su ensayo *&#171;Espectogramas (pos)modernos: el mito zombi en el horizonte de lo "post-humano"&#187;*, Jazmín Acosta propone algunas lecturas a partir de la obra cinematográfica de Romero. El género zombi reflota miedos antiguos y modernos: el canibalismo y la horda primitiva pero también el temor a la catástrofe nuclear, las biotecnologías y la manipulación genética. 
 
 No obstante, creo que hay al menos dos puntos que yo agregaría. La literatura trata sobre la **alteridad**, lo Otro. Puede ser un Otro pasado, un Otro futuro, incluso un Otro presente. Hasta cuando es una crónica histórica, un relato de hechos realmente acontecidos. El narrador que construye la trama, inserta -inevitablemente- una alteridad sobre los hechos en la interpretación. Más claro es en la ciencia ficción o la fantasía épica donde lo Otro son naves espaciales, extraterrestres, futuros distópicos, enanos, elfos y armas mágicas.
