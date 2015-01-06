@@ -11,9 +11,10 @@
     <meta name="description" content="<%= @context[:description] %>" />
     <meta property="og:site_name" content="<%= I18n.t("title") %>" />
     <meta property="og:title" content="<%= title == "app" ? I18n.t("title") : "#{title} - #{I18n.t("title")}" %>" />
-    <meta property="og:image" content="<%= "#{@config[:url]}images/thumb_moustache.png" %>" />
+    <meta property="og:description" content="<%= @context[:description] %>" />
+    <meta property="og:image" content="<%= "#{@config[:url]}images/thumb.jpeg" %>" />
     <link rel="shortcut icon" href="/images/mustache.ico" type="mage/vnd.microsoft.icon"/>
-    <link rel="image_src" href="/images/thumb_moustache.png" />
+    <link rel="image_src" href="/images/thumb.png" />
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jquery.rotate.js"></script>
